@@ -1,0 +1,51 @@
+{
+  "Referente": "A man wearing glasses and a ragged costume",
+  "Acción del referente": "playing a Jaguar electric guitar and singing",
+  "Sentido": "with the accompaniment of a drummer"
+}
+
+
+{
+  "Referente": "A man with glasses and a disheveled outfit",
+  "Acción del referente": "playing a guitar and singing",
+  "Sentido": "along with a drummer"
+}
+
+
+Relaciones semánticas:
+
+    Relaciones semánticas de cercanía: sinónimos, hipónimos, hiperónimos.
+    Relaciones semánticas de lejanía: antónimos, parónimos, homónimos, palabras polisémicas, homófonos.
+    Definición: 
+
+
+
+
+  
+630  _RELATION_TABLE = { 
+631      '!': ANTONYM,           '@': HYPERNYM,           '~': HYPONYM,        '=': ATTRIBUTE, 
+632      '^': ALSO_SEE,          '*': ENTAILMENT,         '>': CAUSE,          '$': VERB_GROUP, 
+633      '#m': MEMBER_MERONYM,   '#s': SUBSTANCE_MERONYM, '#p': PART_MERONYM,  
+634      '%m': MEMBER_HOLONYM,   '%s': SUBSTANCE_HOLONYM, '%p': PART_HOLONYM, 
+635      '&': SIMILAR,           '<': PARTICIPLE_OF,      '\\': PERTAINYM,     '+': FRAMES, 
+636      ';c': CLASSIF_CATEGORY, ';u': CLASSIF_USAGE,     ';r': CLASSIF_REGIONAL, 
+637      '-c': CLASS_CATEGORY,   '-u': CLASS_USAGE,       '-r': CLASS_REGIONAL, 
+638      '@i': INSTANCE_HYPERNYM,'~i': INSTANCE_HYPONYM, 
+
+
+
+
+ORACIONES
+
+SI EXISTE UN VERBO COPULATIVO ENTONCES SE PUEDE OBTENER UN ATRIBUTO 
+DEL CUAL SE PUEDEN VINCULAR
+El verbo copulativo (del latín copŭla: 'gancho', 'puente' o 'vínculo') es un tipo de verbo (en español, ser, estar o parecer) que algunas lenguas poseen para construir la llamada predicación nominal del sujeto de una oración: el sujeto se une con este verbo a un complemento obligatorio llamado atributo que por lo general determina alguna propiedad, estado o equivalencia del mismo, por ejemplo: "Este plato es bueno". "Juan está casado". "Ese fue el culpable". Forma las llamadas oraciones copulativas o atributivas.1​ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,101 @@
+,Unnamed: 0,gold_label,sentence1,sentence2,SET
+568111,558275,entailment,"A man wearing a blue shirt, black apron, eyeglasses, and a mask is handling food in a tray.",A person in appropriate institution protection works with meals.,TEST
+568812,558976,entailment,A man dressed in a red shirt and black tie stands up at a wedding reception to make a speech.,a guy in a red top and tie makes a speech,TEST
+560781,550939,contradiction,A young boy runs across a road in front of a sky blue building with barred windows.,A boy sleeps in his bed.,TEST
+565799,555963,contradiction,An Asian woman is standing on a path with a basket on her head looking into a mirror she is holding in her hand.,Nobody is standing,TEST
+562665,552829,neutral,A child in a maroon shirt playing next to a fountain.,The child is getting wet from the fountain.,TEST
+566038,556202,neutral,man dressed in orange clothing with face covered seemingly balancing on a cane being held be a similarly dressed man sitting crossed legged on the ground at a shopping mall.,Two clowns are performing at a mall.,TEST
+559216,549374,neutral,An old man with a package poses in front of an advertisement.,A man poses in front of an ad for beer.,TEST
+560744,550902,entailment,People dressed in traditional Japanese garb walk in a procession through a courtyard paved with paving stones.,People dressed in Japanese clothing walk through a courtyard.,TEST
+568225,558389,neutral,Two children play in the snow by the side of the road.,Kids are enjoying the cold weather.,TEST
+564069,554233,entailment,"Blond-haired girl wearing a bicycle helmet, a black t-shirt that reads ""Twizzlers"" and a printed dog tag necklace around her neck.",a girl with a helmet wears a dog tag,TEST
+561068,551226,neutral,A fat woman wearing faint blue top is blowing soap bubble.,A fat woman is wearing pants.,TEST
+562353,552517,contradiction,A father and his daughter are riding a lawn mover down a street while dressed in American colors.,two men cut grass by hand,TEST
+566709,556873,entailment,"Two men are drumming, one is standing and one is sitting down.",Two people are drumming.,TEST
+559873,550031,contradiction,Three men are carrying a red bag into a boat with another person and boat in the background.,A person drives away in a winnebago.,TEST
+565838,556002,neutral,A woman wearing a red coat stands on a wood floor in front of several paintings while two girls sit on the floor at her feet.,Woman takes a break at a museum while her children sit by her feet.,TEST
+559578,549736,neutral,The sun breaks through the trees as a child rides a swing.,The child on the swing is a girl.,TEST
+564232,554396,entailment,A man wearing a shite short-sleeved shirt kisses a woman wearing a light pink jacket while standing on a public street.,A man is kissing a woman,TEST
+562681,552845,contradiction,Someone splashing in the water.,Someone is having a picnic near the lake.,TEST
+567445,557609,contradiction,An elderly lady holding a scruffy dog and smiling contently.,a woman holding a scruffy cat,TEST
+564974,555138,entailment,"An Asian woman in a purple shirt preparing a bowl of food for the younger Asian boy sitting near buy, while an Asian man eats a roll and prepares to take some food up with his chopsticks.",A woman is preparing food for a child.,TEST
+565004,555168,entailment,A woman is holding a microphone in one hand and her mouth is open.,A woman standing at a microphone,TEST
+562944,553108,entailment,A young girl in a white t-shirt and a blue skirt wearing a light colored hat stands in a river next to a big rock.,A girl is wearing a hat.,TEST
+565782,555946,neutral,A gymnast using a set of paralleled bars.,A young gymnast is performing.,TEST
+566854,557018,contradiction,"A guy with a football, a crowd watching him.",There is a guy with a basketball.,TEST
+566880,557044,entailment,Seven young girls are being creative and making posters.,Girls are making posters.,TEST
+559430,549588,neutral,"An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.",An old woman has a light jean jacket.,TEST
+566795,556959,entailment,A man is throwing a small white ball at some red cups.,The man playing a game.,TEST
+566533,556697,entailment,Several street vehicles pass by a traditional architecture style of Thailand.,Vehicles are going down a street in Thailand.,TEST
+567628,557792,entailment,Man and a woman at the side of a table covered in books.,People near a lot of reading materials.,TEST
+568895,559059,neutral,A group of people wait to cross the street in new york,Some of the people are wearing sunglasses.,TEST
+567310,557474,neutral,Two guys in blue shirts talking.,Two men complimenting each other on their blue shirts.,TEST
+562478,552642,contradiction,The child is hanging upside down with his legs over a pole.,There is an adult upside down.,TEST
+563037,553201,contradiction,"Four young men stare up at a basketball hoop with no net, in an outdoor, urban basketball court.",A group of women playing basketball in a gym.,TEST
+565514,555678,entailment,A group of people celebrating in the street.,There is a celebration going on,TEST
+565228,555392,contradiction,A man and a woman stand in front of a Christmas tree contemplating a single thought.,Two people talk loudly in front of a cactus.,TEST
+567306,557470,neutral,A casually dressed young blond woman is looking away sadly as couple near her are kissing.,A woman looks away after recognizing her ex-boyfriend kissing his new girl.,TEST
+567859,558023,entailment,Girls giving a presentation for a school class.,The girls are inside a school.,TEST
+564575,554739,neutral,A man and a child painting a post.,The father and son are repairing the sign.,TEST
+560760,550918,neutral,A young boy holding a red toy wearing green snowman and reindeer pajamas with an older woman on a couch behind him.,The older woman behind the young boy is his mother.,TEST
+564581,554745,entailment,A lady with blue jeans and a brown shirt is speaking on her cellphone on the second floor of the mall.,the lady is talking on her phne,TEST
+562440,552604,neutral,A person obscured in shadow in a gymnasium.,The person is trying to be sneaky.,TEST
+564139,554303,neutral,African woman walking through field.,The african woman is looking for someone in the fields.,TEST
+561870,552031,contradiction,Men are playing rugby while covered in mud.,The men are perfectly free of mud.,TEST
+567080,557244,neutral,A child with curly blond-hair looks at another child with long brown hair while sitting on a bench.,The school kids are relaxing during recess.,TEST
+567481,557645,entailment,A shirtless man with cropped hair smokes a cigarette and ties a plastic bag.,The man is not wearing a shirt.,TEST
+563460,553624,neutral,A group of people stares at a wall that is filled with drawings in a building.,A group of people analyze art together,TEST
+565640,555804,neutral,A girl with curly hair and wearing a patriotic shirt is looking at a monarch butterfly sitting on her left index finger.,A girl captures a butterfly for a science fair project,TEST
+566105,556269,entailment,The blue kayak is being ridden over a small waterfall.,A kayak is being ridden.,TEST
+561954,552118,contradiction,A person in a large pink triangle-shaped costume waves as a man and a woman dressed in matching brightly-colored striped and polka-dotted outfits smile back.,The person is alone in the middle of the ocean.,TEST
+560383,550541,neutral,There is a group of children getting their picture taken with presents.,Young children open presents under a large Christmas tree.,TEST
+566067,556231,entailment,"A boy in an orange ""Spring Hill"" ball team uniform, pitching the ball.",A boy pitches the ball.,TEST
+567713,557877,entailment,A young dark-haired woman with red sun visor holding an open white umbrella amidst a crowd of people,A raven haired woman is seen by the crowd holding a white opened umbrella.,TEST
+564800,554964,neutral,Two people in coats kiss on the side of a road.,A recently engaged couple embrace on the street.,TEST
+561690,551851,entailment,"A young man in an orange shirt, maneuvers a skateboard at the top of a ramp.",A person rides a skateboard.,TEST
+560360,550518,contradiction,A girl jumps in the air.,A girl jumping rope on Mars.,TEST
+560338,550496,entailment,A woman with short blond-hair rises from a chair as another woman in a burgundy shirt laughs.,A woman rises from a chair,TEST
+567952,558116,entailment,Three people are outside.,Three people in nature.,TEST
+568133,558297,neutral,A swan landing in a lake.,A bird is looking for food on a lake.,TEST
+568104,558268,neutral,A singer wearing a leather jacket performs on stage with dramatic lighting behind him.,a singer is on american idol,TEST
+563064,553228,neutral,Older man wearing dark blue clothing sweeping the ground and a person wearing a red coat and carrying a green bag entering the building.,An older man is sweeping his patio while a passerby enters a building,TEST
+561483,551641,neutral,Two people bicycle on a path separated by small mountains.,Two people are in a bike race.,TEST
+559416,549574,neutral,A person in a red shirt and black pants hunched over.,The person is a woman.,TEST
+566423,556587,neutral,Six older women are standing in a row at a table smiling and looking trough books and other material displayed on the table.,Women are looking at books on sale at a library.,TEST
+562717,552881,entailment,A brown and black dog rubs his face in the grass.,The dog is outside.,TEST
+568698,558862,entailment,"By a table with several boxes and two coffee cups on it, a woman in a green sweater is opening a small box and another person (whose head cannot be seen) is operating a small handheld electronic device.",A woman in green opening a box while a half concealed man manipulates a handheld device.,TEST
+565350,555514,contradiction,A woman finishing a marathon race.,The woman is not going to finish the race.,TEST
+560809,550967,entailment,The man is trying to make a pottery that he can market soon.,A man is making pottery.,TEST
+567006,557170,entailment,A man with a beard sitting in front of the tour bus.,A guy is riding the bus.,TEST
+567801,557965,neutral,"A blond woman with a tattoo of on an angel on her arm walking down the street, a concrete wall in the background.",A person with a great tatto,TEST
+564585,554749,contradiction,"A man, with a full face mask, sits on a sidewalk playing the guitar.",A woman is wearing a mask,TEST
+559660,549818,entailment,"A group of four children pose on a muddy beach, smiling and making faces.",Four kids pose on a beach.,TEST
+566563,556727,contradiction,"A bearded man, using a wooden pole, stirs bowl-like objects around in a large metal box filled with water.",A woman is putting on mascara.,TEST
+560542,550700,contradiction,A guy in glasses is biting into a pink marshmallow chick while somebody else is puckering their lips out wanting a bite.,A man eats a hamburger while his friend asks for a bite.,TEST
+563787,553951,contradiction,a male teen is working on a school project.,The boy sitting on top of his dads truck.,TEST
+563143,553307,neutral,A young man holding a young woman in his arms as they get splashed by water shooting up from a fountain.,A young couple is very much in love.,TEST
+560183,550341,entailment,a man in a red shirt is laying on the grass reaching out to another person.,A man in red is holding out his hand.,TEST
+561479,551637,entailment,The small boy is running through a grassy area.,A boy is running outside.,TEST
+562251,552415,entailment,Women in blue dress singing on stage.,A woman is singing on stage.,TEST
+562772,552936,entailment,A little boy in a black and red striped shirt walks down a grassy hill.,The boy is walking outside.,TEST
+566279,556443,contradiction,City street crowded with sports fans wearing orange.,The sports fans are wearing yellow.,TEST
+568282,558446,neutral,"Stretching high in the air, the player in the black shirt reaches for the football as the other stretches toward him to steal it away.",A wide reciever is trying to make a catch.,TEST
+565708,555872,entailment,A man has wrecked his racing bike in the dirt with five spectators behind a rope.,A man has damaged something.,TEST
+563741,553905,entailment,Two men and two women in jackets walk down a large city street.,There are people outside.,TEST
+568351,558515,entailment,A woman is observing pictures on a camera.,A women observing a camera,TEST
+565633,555797,contradiction,Little boy getting soaked playing an outdoor water game.,A girl is playing the piano in her living room.,TEST
+568604,558768,entailment,A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.,A boy dressed for summer in a green shirt and kahki shorts,TEST
+562283,552447,entailment,A dog is on the beach near a ball.,A dog is on the beach.,TEST
+560197,550355,entailment,A Skier ski-jumping while two other skiers watch his act.,A skier preparing a trick,TEST
+568360,558524,contradiction,A mother shading her baby with an umbrella as she and her partner climb the stairs.,Two fathers maneuver their baby strollers into a foyer.,TEST
+564149,554313,contradiction,A man wearing red sunglasses is carrying two cameras.,The man has blue sunglasses.,TEST
+559970,550128,contradiction,A young boy in red leaping into sand at a playground.,A child does a cannonball into a pool.,TEST
+560650,550808,neutral,"First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",Laura Bush is giving a talk about the importance of literacy to young people.,TEST
+563420,553584,entailment,Various men in wetsuits and goggles are standing.,Men are in wetsuits,TEST
+564549,554713,entailment,The baseball players near the pitching mound are celebrating as the batsman walks away.,The batsman is on a different team than the others around the pitching mound.,TEST
+562777,552941,contradiction,A guy in a yellow shirt performs a balancing act on a taught chain near a canal.,A boy is watching a movie in his living room.,TEST
+567068,557232,entailment,"A group of men in blue shirts, banded hats, and red bandannas stand in a group.",a bunch of guys in colorful clothes stand together,TEST
+568650,558814,entailment,A woman holding a newborn baby.,woman holds baby,TEST
+559485,549643,contradiction,A skateboarding youth does a trick on a rail.,A man painting a tree.,TEST
+559755,549913,contradiction,Four children are playing in some water.,The children are doing chores.,TEST
+561555,551716,contradiction,Three men dressed in suits and ties clasps their raised hands while standing in front of corporate logos.,One of the men is actually sasquatch.,TEST
