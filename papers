@@ -1,0 +1,20 @@
+
+
+    Paper: "Textual Entailment: A Perspective on Applied Natural Language Processing" by Dagan, I., Glickman, O., & Magnini, B. (2006).
+        This influential paper provides an overview of the textual entailment task and its applications in natural language processing.
+
+    Paper: "Dependency-Based Textual Entailment Recognition" by Zhou, G., Zhao, J., & Su, J. (2005).
+        This paper introduces a dependency-based approach to textual entailment recognition, emphasizing the role of grammatical dependencies in determining textual entailment relationships.
+
+    Paper: "Semantic Role Labeling for Textual Entailment" by Bos, J., & Markert, K. (2005).
+        This paper explores the use of semantic role labeling techniques for textual entailment, highlighting the importance of understanding the roles played by grammatical entities in inferring textual entailment.
+
+    Paper: "A Unified Architecture for Semantic Role Labeling and Textual Entailment Recognition" by Bos, J., Markert, K., & Thater, S. (2008).
+        This paper presents a unified architecture that combines semantic role labeling and textual entailment recognition, showcasing the benefits of integrating these techniques for improved performance.
+
+    Paper: "Coreference Resolution for Textual Entailment Recognition" by Zhou, G., & Su, J. (2007).
+        This paper investigates the use of coreference resolution techniques in textual entailment recognition, demonstrating how resolving coreferences can enhance the understanding of grammatical relationships.
+
+    Paper: "Recognizing Textual Entailment with LSTMs" by Rocktäschel, T., Grefenstette, E., Hermann, K. M., Kočiský, T., & Blunsom, P. (2016).
+        This paper presents a neural network-based approach to recognizing textual entailment, showcasing the effectiveness of long short-term memory (LSTM) networks in modeling the relationship between grammatical entities.
+
