@@ -125,7 +125,7 @@ def mutual_information_2d(x, y, sigma=1, normalized=False):
     jh = np.histogram2d(x, y, bins=bins)[0]
 
     # smooth the jh with a gaussian filter of given sigma
-    ndimage.gaussian_filter(jh, sigma=sigma, mode='constant', output=jh)
+    #ndimage.gaussian_filter(jh, sigma=sigma, mode='constant', output=jh)
 
     # compute marginal histograms
     jh = jh + EPS

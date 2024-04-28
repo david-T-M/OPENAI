@@ -1,0 +1,4 @@
+/home/david/anaconda3/envs/rit/lib/python3.9/site-packages/torch/cuda/__init__.py:138: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0
+/home/david/OPENAI/RIT_relaciones.py:497: UserWarning: [W008] Evaluating Doc.similarity based on empty vectors.
+  similitud_faltantes.append(doc1.similarity(doc2))

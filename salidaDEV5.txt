@@ -1,0 +1,319 @@
+/home/david/anaconda3/envs/rit/lib/python3.9/site-packages/torch/cuda/__init__.py:138: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0
+0
+1
+2
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+cat  related_to  dog
+encontró Synset('dog.n.01') Synset('cat.n.01')
+encontró Synset('get.v.19') Synset('lick.v.02')
+3
+por que no encontro catching VERB looking VERB
+4
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+cat  related_to  dog
+encontró Synset('dog.n.01') Synset('cat.n.01')
+5
+dog  related_to  animal
+animal  related_to  dog
+encontró Synset('dog.n.01') Synset('animal.n.01')
+6
+encontró Synset('greyhound.n.01') Synset('dog.n.01')
+7
+8
+9
+encontró Synset('dog.n.01') Synset('animal.n.01')
+encontró Synset('rush.v.01') Synset('travel.v.01')
+encontró Synset('race.v.04') Synset('ground.v.03')
+10
+encontró Synset('rush.v.01') Synset('chase.v.01')
+11
+sinonimos de sinonimos racetrack track
+encontró Synset('dog.n.01') Synset('cat.n.01')
+12
+por que no encontro sitting VERB reads VERB
+13
+14
+encontró Synset('restrain.v.03') Synset('make.v.02')
+15
+por que no encontro looking VERB walking VERB
+encontró Synset('look.v.02') Synset('stick.v.04')
+16
+por que no encontro standing VERB crouched VERB
+17
+feet  related_to  wearing
+feet  related_to  standing
+18
+park  related_to  fun
+encontró Synset('sit_down.v.01') Synset('experience.v.03')
+19
+20
+encontró Synset('ballpark.n.01') Synset('dwelling.n.01')
+encontró Synset('bench.n.01') Synset('sofa.n.01')
+21
+sinonimos de sinonimos little small
+22
+sinonimos de sinonimos little small
+encontró Synset('ma.n.01') Synset('mother.n.01')
+23
+sinonimos de sinonimos little small
+park  related_to  car
+park  related_to  car
+encontró Synset('give.v.07') Synset('play.v.02')
+24
+encontró Synset('bolshevik.n.01') Synset('blond.n.01')
+25
+encontró Synset('woman.n.01') Synset('person.n.01')
+26
+27
+her  related_to  girl
+encontró Synset('assistant.n.01') Synset('usher.n.03')
+encontró Synset('receive.v.06') Synset('see.v.05')
+28
+adult  related_to  person
+29
+horse  related_to  adult
+encontró Synset('aid.n.02') Synset('crack.n.09')
+30
+head  related_to  has
+child  related_to  has
+grandson  related_to  child
+encontró Synset('have.v.01') Synset('have.v.01')
+encontró Synset('child.n.02') Synset('grandson.n.01')
+31
+head  related_to  carrying
+encontró Synset('oblige.v.02') Synset('carry.v.04')
+32
+child  related_to  something
+33
+friends  is_a  people
+encontró Synset('race.v.03') Synset('hold.v.13')
+34
+friends  is_a  people
+hand  related_to  other
+hand  related_to  other
+encontró Synset('run.v.26') Synset('punch.v.02')
+35
+friends  is_a  people
+encontró Synset('race.v.03') Synset('hold.v.13')
+36
+37
+sinonimos de sinonimos along together
+encontró Synset('young.n.09') Synset('race.n.03')
+38
+park  related_to  sit
+encontró Synset('run.v.03') Synset('sit.v.02')
+39
+40
+41
+42
+43
+sinonimos de sinonimos square room
+encontró Synset('child.n.01') Synset('adolescent.n.01')
+44
+doll  related_to  small
+45
+woman  is_a (ant)  wife
+child  is_a (ant)  son
+woman  is_a (ant)  wife
+child  is_a (ant)  son
+man  related_to  husband
+man  related_to  husband
+husband  related_to  man
+husband  related_to  man
+man  related_to  son
+son  related_to  man
+carry  related_to  holding
+child  related_to  their
+child  related_to  son
+child  related_to  son
+son  related_to  child
+woman  related_to  wife
+wife  related_to  woman
+wife  related_to  woman
+encontró Synset('woman.n.01') Synset('wife.n.01')
+encontró Synset('oblige.v.02') Synset('carry.v.04')
+encontró Synset('child.n.02') Synset('son.n.01')
+46
+carry  related_to  holding
+child  related_to  their
+dog  related_to  woman
+encontró Synset('oblige.v.02') Synset('carry.v.04')
+encontró Synset('child.n.03') Synset('dog.n.03')
+encontró Synset('walk.n.05') Synset('road.n.01')
+47
+encontró Synset('oblige.v.02') Synset('carry.v.04')
+48
+play  related_to  two
+por que no encontro looks VERB watches VERB
+encontró Synset('swimming.n.01') Synset('play.n.08')
+49
+play  related_to  two
+play  related_to  children
+crowd  related_to  play
+encontró Synset('swimming.n.01') Synset('play.n.08')
+50
+play  related_to  children
+encontró Synset('child.n.01') Synset('buddy.n.01')
+encontró Synset('swimming.n.01') Synset('play.n.08')
+encontró Synset('stand.v.10') Synset('even.v.03')
+encontró Synset('digest.v.03') Synset('notice.v.04')
+51
+52
+encontró Synset('ride.v.01') Synset('drive.v.02')
+53
+54
+por que no encontro looking VERB prepares VERB
+55
+woman  is_a  man
+encontró Synset('trim.v.02') Synset('clean.v.01')
+encontró Synset('asparagus.n.01') Synset('carrot.n.02')
+56
+encontró Synset('pare.v.04') Synset('cut.v.01')
+encontró Synset('asparagus.n.02') Synset('vegetable.n.01')
+57
+58
+sinonimos de sinonimos display show
+59
+girl  is_a  child
+60
+girl  is_a  child
+encontró Synset('rise.v.11') Synset('sit_down.v.01')
+61
+girl  is_a  child
+encontró Synset('help.v.01') Synset('help.v.01')
+62
+63
+man  related_to  two
+person  related_to  two
+encontró Synset('person.n.01') Synset('dog.n.01')
+64
+man  related_to  two
+person  related_to  two
+65
+66
+encontró Synset('wheel.v.03') Synset('bicycle.v.01')
+67
+68
+yellow  antonym  red
+yellow  antonym  red
+yellow  related_to  red
+red  related_to  yellow
+fire  related_to  yellow
+encontró Synset('yellow.n.01') Synset('red.n.01')
+encontró Synset('doctor.n.04') Synset('combatant.n.01')
+69
+encontró Synset('pretend.v.03') Synset('want.v.04')
+por que no encontro pretending VERB grows VERB
+70
+playing  used_for (ant) pretending
+playing  used_for (ant) pretending
+doctor  related_to  professional
+encontró Synset('doctor.n.03') Synset('role.n.04')
+encontró Synset('make.v.42') Synset('play.v.03')
+71
+encontró Synset('stand.v.02') Synset('wear.v.06')
+72
+encontró Synset('stand.v.10') Synset('raise.v.02')
+73
+mother  related_to  woman
+mother  related_to  woman
+encontró Synset('woman.n.01') Synset('mother.n.03')
+74
+75
+76
+people  is_a  not
+77
+78
+por que no encontro climbs VERB trying VERB
+encontró Synset('wax.v.02') Synset('receive.v.02')
+79
+encontró Synset('climb.v.01') Synset('fall.v.01')
+80
+encontró Synset('blue.n.02') Synset('clothing.n.01')
+81
+woman  is_a  man
+82
+83
+girl  related_to  person
+her  related_to  person
+face  related_to  person
+person  related_to  face
+encontró Synset('girl.n.01') Synset('person.n.01')
+encontró Synset('cover.v.26') Synset('assume.v.03')
+84
+girl  related_to  person
+her  related_to  person
+face  related_to  person
+person  related_to  face
+encontró Synset('girl.n.01') Synset('person.n.01')
+85
+girl  related_to  person
+stick  related_to  wooden
+stick  related_to  piece
+her  related_to  person
+face  related_to  person
+person  related_to  face
+encontró Synset('girl.n.01') Synset('person.n.01')
+encontró Synset('traverse.v.01') Synset('run.v.01')
+encontró Synset('traverse.v.01') Synset('chase.v.01')
+encontró Synset('man.n.10') Synset('stick.n.06')
+86
+87
+88
+encontró Synset('embrown.v.02') Synset('ice.v.02')
+89
+man  related_to  two
+lab  related_to  experiment
+experiment  related_to  lab
+experiment  related_to  biology
+experiment  related_to  laboratory
+90
+man  related_to  two
+encontró Synset('woman.n.01') Synset('student.n.01')
+por que no encontro looking VERB creating VERB
+encontró Synset('womanhood.n.02') Synset('nation.n.02')
+91
+man  related_to  two
+man  related_to  people
+people  related_to  women
+encontró Synset('womanhood.n.02') Synset('people.n.01')
+por que no encontro reading VERB referencing VERB
+92
+sinonimos de sinonimos picture photo
+encontró Synset('look.v.02') Synset('accept.v.08')
+93
+left  related_to  side
+side  related_to  left
+94
+something  related_to  someone
+someone  related_to  something
+encontró Synset('video.n.01') Synset('mark.n.04')
+95
+woman  is_a  man
+white  antonym  black
+vehicle  is_a (ant)  car
+white  antonym  black
+vehicle  is_a (ant)  car
+black  related_to  white
+black  related_to  white
+vehicle  related_to  car
+car  related_to  vehicle
+car  related_to  vehicle
+car  related_to  city
+transportation  related_to  car
+car  related_to  transportation
+car  related_to  transportation
+encontró Synset('white.n.02') Synset('black.n.01')
+por que no encontro exiting VERB enters VERB
+encontró Synset('vehicle.n.01') Synset('car.n.01')
+96
+pants  related_to  wearing
+vehicle  related_to  bus
+bus  related_to  vehicle
+transportation  related_to  bus
+encontró Synset('wear.v.04') 

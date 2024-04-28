@@ -1,0 +1,2768 @@
+0
+1
+slide  related_to  park
+2
+3
+terrier  is_a  dog
+4
+terrier  is_a  dog
+5
+terrier  is_a  dog
+cover  related_to  piece
+6
+stand  antonym  sit
+stand  antonym  sit
+sit  related_to  stand
+7
+need  related_to  people
+8
+9
+10
+11
+12
+all  related_to  many
+13
+14
+15
+walk  antonym  ride
+walk  antonym  ride
+ride  related_to  use
+16
+17
+18
+good  synonym  right
+baseball  is_a  sport
+his  related_to  he
+his  related_to  he
+19
+his  related_to  he
+his  related_to  he
+right  related_to  direction
+20
+pitcher  related_to  ball
+circle  related_to  ball
+ball  related_to  circle
+his  related_to  he
+his  related_to  he
+21
+cobblestone  derivado_from  stone
+road  related_to  man
+construction  related_to  road
+22
+cobblestone  derivado_from  stone
+construction  related_to  road
+23
+24
+red  antonym  blue
+red  antonym  blue
+blue  related_to  red
+blue  related_to  red
+25
+go  related_to  red
+beach  related_to  water
+beach  related_to  water
+water  related_to  beach
+26
+27
+man  antonym  dress
+man  antonym  dress
+28
+shirt  related_to  man
+29
+man  antonym  lady
+man  antonym  lady
+man  related_to  lady
+30
+someone  synonym  person
+31
+32
+33
+34
+sand  synonym  beach
+35
+36
+37
+38
+plane  related_to  water
+plane  related_to  tree
+39
+40
+cellphone  is_a  phone
+41
+write  synonym  sit
+42
+43
+44
+45
+bring  related_to  carry
+carry  related_to  bring
+carry  related_to  water
+46
+baby  related_to  dog
+47
+play  synonym  bring
+stick  related_to  fetch
+48
+step  is_a (ant)  trip
+step  is_a (ant)  trip
+49
+bungee  related_to  hook
+step  related_to  go
+50
+step  related_to  go
+51
+green  distinct from  yellow
+green  distinct from  yellow
+yellow  related_to  green
+green  related_to  yellow
+52
+53
+54
+use  related_to  stand
+55
+56
+57
+hang  related_to  use
+58
+59
+hang  related_to  use
+60
+play  related_to  outside
+snow  related_to  outside
+snow  related_to  winter
+winter  related_to  snow
+61
+short  synonym  little
+62
+snow  related_to  make
+snowball  related_to  snow
+63
+64
+65
+66
+lot  synonym  many
+alcohol  is_a  drink
+67
+alcohol  is_a  drink
+68
+group  synonym  cluster
+69
+place  related_to  there
+there  related_to  place
+party  related_to  place
+party  related_to  drink
+70
+place  related_to  there
+there  related_to  place
+party  related_to  place
+party  related_to  drink
+71
+place  related_to  there
+there  related_to  place
+party  related_to  place
+party  related_to  drink
+72
+group  related_to  crowd
+crowd  related_to  group
+crowded  related_to  crowd
+crowd  related_to  place
+73
+74
+place  is_a (ant)  area
+place  is_a (ant)  area
+place  related_to  area
+place  related_to  area
+area  related_to  place
+75
+picture  related_to  people
+76
+large  synonym  big
+people  is_a  group
+77
+crowd  related_to  gather
+78
+79
+fly  related_to  air
+fly  related_to  air
+plane  related_to  air
+80
+glass  derivado_from (ant) sunglass
+glass  derivado_from (ant) sunglass
+sunglass  related_to  glass
+81
+ride  synonym  drive
+82
+ride  synonym  drive
+83
+advertise  derivado_from (ant) advertisement
+advertise  derivado_from (ant) advertisement
+advertisement  related_to  advertise
+ad  related_to  advertise
+84
+85
+86
+87
+88
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+89
+jump  related_to  leave
+90
+91
+space  related_to  outside
+outside  related_to  space
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+tattooed  related_to  tattoo
+tattooed  related_to  tattoo
+107
+tattooed  related_to  tattoo
+tattooed  related_to  tattoo
+108
+109
+cook  synonym  prepare
+110
+111
+112
+male  antonym  female
+male  antonym  female
+male  related_to  female
+male  similar_to  female
+female  similar_to  male
+113
+114
+blonde  synonym  blond
+blonde  synonym  blond
+haircut  is_a  cut
+hair  derivado_from (ant) haired
+hair  derivado_from (ant) haired
+haired  related_to  hair
+115
+blonde  synonym  blond
+haircut  is_a  cut
+hair  derivado_from (ant) haired
+hair  derivado_from (ant) haired
+haired  related_to  hair
+116
+blonde  synonym  blond
+watch  synonym  look
+117
+handcuff  derivado_from  hand
+118
+119
+120
+shop  is_a  store
+people  related_to  citizen
+121
+buy  related_to  purchasing
+shop  related_to  buy
+buy  related_to  shop
+122
+look  related_to  two
+chef  related_to  restaurant
+people  related_to  citizen
+123
+stand  antonym  sit
+stand  antonym  sit
+woman  related_to  aged
+sit  related_to  stand
+124
+125
+126
+lady  related_to  young
+127
+128
+haircut  derivado_from  hair
+girl  antonym  boy
+girl  antonym  boy
+girl  related_to  boy
+boy  related_to  girl
+129
+130
+131
+132
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+133
+134
+board  related_to  piece
+board  related_to  wood
+board  related_to  wood
+wood  related_to  board
+piece  related_to  many
+135
+cook  used_for (ant) kitchen
+cook  used_for (ant) kitchen
+cook  related_to  kitchen
+home  related_to  someone
+136
+137
+child  related_to  young
+child  related_to  man
+green  related_to  go
+go  related_to  green
+home  related_to  go
+138
+he  related_to  man
+table  related_to  kitchen
+table  related_to  living
+table  related_to  area
+table  related_to  home
+139
+home  is_a  house
+young  related_to  look
+peer  related_to  look
+peer  related_to  look
+look  related_to  peer
+140
+141
+live  synonym  living
+high  related_to  tall
+high  related_to  tall
+high  related_to  tall
+tall  related_to  high
+tall  related_to  high
+142
+143
+peer  related_to  look
+peer  related_to  look
+look  related_to  peer
+144
+shirt  related_to  wear
+145
+home  related_to  inside
+146
+home  related_to  sleep
+147
+home  is_a  house
+peer  related_to  look
+peer  related_to  look
+look  related_to  peer
+148
+149
+home  is_a  house
+he  related_to  man
+150
+151
+green  antonym  red
+bedroom  distinct from  kitchen
+green  antonym  red
+bedroom  distinct from  kitchen
+green  related_to  red
+152
+153
+154
+house  derivado_from (ant) household
+house  derivado_from (ant) household
+household  related_to  house
+house  related_to  household
+155
+156
+boy  is_a  child
+bed  related_to  stand
+bed  related_to  wall
+bed  related_to  wall
+157
+boy  is_a  child
+158
+boy  is_a  child
+159
+guy  is_a  man
+160
+161
+work  used_for (ant) people
+work  used_for (ant) people
+162
+163
+164
+165
+166
+bicycle  is_a  bike
+167
+bicycle  is_a  vehicle
+168
+green  distinct from  yellow
+green  distinct from  yellow
+blue  related_to  green
+blue  related_to  green
+green  related_to  blue
+dress  related_to  black
+dress  related_to  black
+yellow  related_to  green
+green  related_to  yellow
+169
+170
+171
+swim  derivado_from (ant) swimsuit
+suit  derivado_from (ant) swimsuit
+swim  derivado_from (ant) swimsuit
+suit  derivado_from (ant) swimsuit
+172
+laughing  derivado_from  laugh
+173
+174
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+bed  related_to  event
+175
+run  related_to  compete
+triathlon  related_to  event
+176
+177
+take  related_to  use
+camera  related_to  photo
+178
+picture  synonym  photo
+179
+180
+go  related_to  glass
+181
+blonde  related_to  haired
+182
+183
+woman  is_a  person
+around  related_to  area
+184
+area  is_a (ant)  middle
+area  is_a (ant)  middle
+middle  related_to  area
+desert  related_to  area
+185
+186
+tuxedo  related_to  suit
+187
+dress  related_to  wear
+188
+189
+sit  antonym  stand
+sit  antonym  stand
+sit  related_to  stand
+table  related_to  stand
+190
+191
+192
+lady  is_a  woman
+dress  related_to  party
+party  related_to  room
+party  related_to  people
+193
+lady  is_a  woman
+hold  related_to  clutch
+full  related_to  empty
+empty  related_to  full
+194
+lady  is_a  woman
+195
+196
+picture  used_for (ant) camera
+picture  used_for (ant) camera
+picture  related_to  camera
+magazine  related_to  camera
+take  related_to  right
+picture  related_to  camera
+magazine  related_to  camera
+picture  related_to  people
+people  related_to  magazine
+197
+198
+people  antonym  man
+people  antonym  man
+man  related_to  people
+199
+people  related_to  family
+family  related_to  people
+family  related_to  people
+birthday  related_to  fun
+family  related_to  together
+birthday  related_to  together
+200
+lot  related_to  group
+people  related_to  group
+people  related_to  group
+group  related_to  people
+people  related_to  human
+people  related_to  human
+human  related_to  people
+201
+202
+woman  is_a  man
+crowd  related_to  play
+crowd  related_to  football
+203
+student  related_to  people
+204
+band  related_to  concert
+concert  related_to  band
+205
+band  related_to  play
+band  related_to  music
+music  related_to  band
+206
+dog  related_to  man
+dog  related_to  man
+207
+208
+209
+210
+wash  related_to  scrub
+211
+212
+213
+214
+bench  related_to  park
+215
+injury  related_to  injure
+injury  related_to  injure
+injure  related_to  injury
+216
+217
+water  is_a  food
+218
+219
+building  synonym  construction
+man  is_a (ant)  guy
+man  is_a (ant)  guy
+man  related_to  guy
+guy  related_to  man
+guy  related_to  man
+guy  related_to  support
+220
+221
+paint  related_to  construction
+construction  related_to  house
+house  related_to  construction
+climb  related_to  house
+222
+window  related_to  outside
+223
+outside  related_to  appearance
+224
+225
+sit  related_to  work
+scaffolding  related_to  construction
+paint  related_to  construction
+226
+look  related_to  two
+paint  related_to  make
+227
+228
+worker  derivado_from  work
+part  synonym  work
+job  synonym  work
+229
+230
+climb  related_to  wall
+hammer  related_to  construction
+231
+232
+233
+white  antonym  black
+white  antonym  black
+black  related_to  white
+black  related_to  white
+board  related_to  black
+234
+watch  related_to  small
+235
+party  related_to  small
+236
+237
+cook  synonym  prepare
+people  antonym  man
+people  antonym  man
+man  related_to  people
+person  related_to  man
+person  related_to  man
+man  related_to  person
+man  related_to  person
+238
+people  antonym  man
+people  antonym  man
+man  related_to  people
+person  related_to  man
+person  related_to  man
+man  related_to  person
+man  related_to  person
+wear  related_to  watch
+watch  related_to  wear
+239
+people  antonym  man
+street  antonym  sidewalk
+people  antonym  man
+street  antonym  sidewalk
+man  related_to  people
+dog  related_to  people
+street  related_to  sidewalk
+street  related_to  sidewalk
+person  related_to  man
+person  related_to  man
+man  related_to  person
+man  related_to  person
+hot  related_to  person
+240
+man  antonym  people
+man  antonym  people
+man  related_to  two
+man  related_to  people
+241
+man  is_a  person
+grill  is_a  stove
+steak  related_to  cook
+242
+man  related_to  two
+243
+watch  related_to  clothing
+244
+245
+246
+two  is_a (ant)  couple
+two  is_a (ant)  couple
+two  related_to  couple
+couple  related_to  two
+couple  related_to  two
+play  related_to  two
+247
+barbecue  used_for (ant) grill
+barbecue  used_for (ant) grill
+grill  related_to  barbecue
+grill  related_to  barbecue
+barbecue  related_to  grill
+248
+cook  synonym  prepare
+249
+250
+stage  used_for  play
+251
+fire  related_to  orange
+252
+253
+field  related_to  outside
+grass  related_to  outside
+254
+255
+dumpster  related_to  trash
+256
+257
+258
+259
+swimming  related_to  two
+play  related_to  two
+toy  related_to  play
+toy  related_to  play
+play  related_to  toy
+toy  related_to  ball
+ball  related_to  toy
+260
+first  related_to  two
+snow  related_to  two
+dress  related_to  first
+261
+262
+kid  synonym  child
+263
+kid  synonym  child
+264
+265
+266
+267
+man  antonym  woman
+sit  antonym  stand
+man  antonym  woman
+sit  antonym  stand
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+sit  related_to  stand
+268
+canoe  is_a  boat
+269
+270
+271
+272
+273
+274
+lake  related_to  fish
+fish  related_to  lake
+275
+276
+rowboat  is_a  boat
+sit  antonym  stand
+sit  antonym  stand
+sit  related_to  stand
+277
+278
+279
+have  synonym  make
+280
+281
+282
+sit  antonym  stand
+entrance  antonym  exit
+sit  antonym  stand
+entrance  antonym  exit
+sit  related_to  stand
+283
+guard  related_to  people
+guard  related_to  watch
+watch  related_to  guard
+watch  related_to  guard
+284
+sit  antonym  stand
+sit  antonym  stand
+sit  related_to  stand
+285
+286
+guard  related_to  people
+287
+288
+289
+290
+man  antonym  lady
+man  antonym  lady
+man  related_to  lady
+blue  related_to  gray
+291
+open  related_to  together
+292
+open  antonym  closed
+open  antonym  closed
+open  related_to  closed
+closed  related_to  open
+293
+open  related_to  together
+294
+295
+296
+workman  related_to  man
+297
+298
+video  related_to  record
+record  related_to  video
+record  related_to  video
+cassette  related_to  record
+record  related_to  cassette
+299
+300
+person  related_to  plant
+short  related_to  full
+wood  related_to  plant
+301
+302
+303
+man  synonym  person
+304
+man  synonym  person
+obscure  related_to  hide
+hide  related_to  obscure
+log  related_to  tree
+305
+man  synonym  person
+sit  antonym  stand
+sit  antonym  stand
+sit  related_to  stand
+306
+dry  related_to  water
+dry  related_to  water
+307
+308
+water  related_to  wet
+wet  related_to  water
+309
+310
+bath  related_to  water
+311
+lake  has_a  water
+312
+313
+314
+itself  distinct from  himself
+itself  distinct from  himself
+dog  related_to  animal
+animal  related_to  dog
+dry  related_to  water
+dry  related_to  water
+315
+dog  is_a (ant)  puppy
+dog  is_a (ant)  puppy
+dog  related_to  puppy
+puppy  related_to  dog
+puppy  related_to  dog
+316
+water  related_to  wet
+wet  related_to  water
+317
+dog  related_to  animal
+animal  related_to  dog
+dry  related_to  water
+dry  related_to  water
+318
+itself  distinct from  himself
+itself  distinct from  himself
+dog  related_to  labrador
+dry  related_to  water
+dry  related_to  water
+319
+320
+dog  related_to  animal
+animal  related_to  dog
+321
+pond  has_a  water
+322
+323
+324
+green  related_to  like
+its  related_to  their
+325
+326
+green  related_to  like
+327
+328
+329
+green  antonym  red
+green  antonym  red
+green  related_to  red
+330
+man  is_a  male
+331
+man  is_a  male
+332
+man  is_a  male
+eat  used_for (ant) food
+eat  used_for (ant) food
+food  related_to  eat
+food  related_to  eat
+eat  related_to  food
+eat  related_to  food
+eat  related_to  food
+food  related_to  lunch
+lunch  related_to  food
+333
+bike  antonym  car
+bike  antonym  car
+334
+335
+336
+337
+man  is_a  person
+338
+bicycle  related_to  travel
+339
+340
+ride  related_to  park
+341
+market  related_to  shop
+342
+343
+two  is_a (ant)  couple
+two  is_a (ant)  couple
+two  related_to  couple
+couple  related_to  two
+couple  related_to  two
+dress  related_to  material
+344
+girl  is_a  female
+card  related_to  product
+345
+touch  is_a (ant)  catch
+touch  is_a (ant)  catch
+346
+house  has_a  roof
+347
+spot  synonym  touch
+348
+man  synonym  male
+349
+man  synonym  male
+practice  synonym  do
+350
+man  synonym  male
+stroke  related_to  swimming
+swimming  related_to  stroke
+lake  related_to  swimming
+351
+pool  used_for  bathing
+352
+water  has_a (ant) river
+water  has_a (ant) river
+eye  related_to  wear
+keep  related_to  cap
+goggle  related_to  eye
+swim  related_to  water
+swim  related_to  water
+river  related_to  water
+water  related_to  river
+water  related_to  river
+353
+354
+boat  related_to  water
+boat  related_to  water
+355
+body  related_to  outside
+356
+357
+358
+swim  related_to  pool
+pool  related_to  swim
+swim  related_to  pool
+pool  related_to  swim
+swim  related_to  pool
+pool  related_to  swim
+lake  related_to  pool
+359
+360
+duo  related_to  two
+two  related_to  duo
+stage  related_to  people
+361
+man  synonym  male
+woman  synonym  female
+362
+man  synonym  male
+woman  synonym  female
+363
+young  similar_to  little
+little  related_to  young
+little  similar_to  young
+little  related_to  young
+field  related_to  play
+364
+young  similar_to  little
+little  related_to  young
+little  similar_to  young
+little  related_to  young
+365
+boy  antonym  girl
+toy  is_a (ant)  doll
+boy  antonym  girl
+toy  is_a (ant)  doll
+young  similar_to  little
+little  related_to  young
+little  similar_to  young
+little  related_to  young
+girl  related_to  young
+boy  related_to  little
+boy  related_to  girl
+girl  related_to  boy
+boy  related_to  play
+toy  related_to  little
+toy  related_to  play
+toy  related_to  play
+play  related_to  toy
+toy  related_to  doll
+doll  related_to  toy
+doll  related_to  toy
+field  related_to  play
+366
+367
+mall  used_for  shop
+368
+shop  is_a  store
+courtyard  related_to  open
+369
+airplane  used_for  fly
+play  related_to  have
+toy  related_to  have
+370
+boy  related_to  young
+boy  related_to  young
+boy  related_to  person
+fly  related_to  air
+fly  related_to  air
+toy  related_to  object
+sky  related_to  air
+air  related_to  sky
+cloud  related_to  object
+/home/david/OPENAI/RIT.py:427: UserWarning: [W008] Evaluating Doc.similarity based on empty vectors.
+  similitud_faltantes.append(doc1.similarity(doc2))
+cloud  related_to  air
+cloud  related_to  air
+371
+372
+toy  related_to  play
+toy  related_to  play
+play  related_to  toy
+373
+field  related_to  sport
+374
+plane  synonym  airplane
+fly  related_to  air
+fly  related_to  air
+his  related_to  he
+his  related_to  he
+375
+field  related_to  play
+376
+middle  antonym  outside
+middle  antonym  outside
+field  related_to  outside
+377
+middle  antonym  outside
+middle  antonym  outside
+field  related_to  play
+field  related_to  outside
+378
+rain  derivado_from (ant) rainy
+rain  derivado_from (ant) rainy
+rainy  related_to  rain
+379
+parade  related_to  street
+arm  related_to  stuff
+380
+381
+gentleman  is_a  man
+382
+gentleman  is_a  man
+383
+rain  related_to  cold
+his  related_to  he
+his  related_to  he
+384
+gentleman  is_a  man
+385
+gentleman  is_a  man
+play  related_to  event
+386
+carry  synonym  hold
+387
+388
+gentleman  is_a  man
+389
+festival  related_to  event
+390
+dry  distinct from  rain
+dry  distinct from  rain
+his  related_to  he
+his  related_to  he
+391
+392
+gentleman  is_a  man
+rain  related_to  wet
+393
+gentleman  is_a  man
+rain  related_to  outside
+bagpipe  related_to  instrument
+394
+bagpipe  related_to  instrument
+395
+396
+397
+she  synonym  he
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+398
+399
+400
+instrument  related_to  play
+bagpipe  related_to  instrument
+401
+dress  related_to  wear
+402
+403
+404
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+405
+man  is_a (ant)  guy
+man  is_a (ant)  guy
+man  related_to  guy
+guy  related_to  man
+guy  related_to  man
+406
+man  is_a (ant)  guy
+man  is_a (ant)  guy
+man  related_to  guy
+guy  related_to  man
+guy  related_to  man
+407
+man  is_a (ant)  guy
+man  is_a (ant)  guy
+man  related_to  guy
+guy  related_to  man
+guy  related_to  man
+408
+409
+dress  synonym  costume
+410
+411
+412
+frisbee  used_for  play
+ocean  related_to  beach
+beach  related_to  ocean
+413
+414
+bunch  related_to  body
+dance  related_to  move
+dance  related_to  body
+415
+416
+dance  related_to  wedding
+417
+study  synonym  look
+418
+female  is_a (ant)  girl
+female  is_a (ant)  girl
+girl  related_to  female
+girl  related_to  female
+419
+female  antonym  man
+female  antonym  man
+man  related_to  female
+420
+lady  synonym  woman
+421
+422
+woman  is_a  man
+booklet  is_a  book
+423
+same  related_to  together
+together  related_to  same
+424
+425
+426
+427
+safety  antonym  dangerous
+safety  antonym  dangerous
+laboratory  related_to  chemical
+428
+eye  related_to  wear
+wear  related_to  protect
+protect  related_to  safety
+goggle  related_to  eye
+429
+430
+look  related_to  two
+431
+432
+lady  related_to  person
+433
+434
+435
+costume  synonym  dress
+dance  related_to  tango
+tango  related_to  dance
+436
+dress  is_a  clothing
+waist  related_to  belt
+belt  related_to  waist
+belt  related_to  waist
+437
+dance  antonym  sit
+dance  antonym  sit
+438
+crowd  related_to  four
+costume  related_to  people
+stage  related_to  people
+stage  related_to  front
+stage  related_to  large
+crowd  related_to  stage
+439
+costume  related_to  people
+stage  related_to  people
+440
+home  related_to  four
+costume  related_to  people
+stage  related_to  people
+441
+ride  related_to  bike
+442
+443
+444
+445
+guy  is_a  man
+446
+447
+448
+449
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+wagon  related_to  woman
+450
+451
+452
+453
+wheel  derivado_from (ant) wheelie
+wheel  derivado_from (ant) wheelie
+middle  related_to  balance
+balance  related_to  middle
+454
+bike  is_a  bicycle
+rider  related_to  ride
+455
+blue  antonym  green
+blue  antonym  green
+blue  related_to  green
+blue  related_to  green
+green  related_to  blue
+green  related_to  red
+456
+457
+color  related_to  all
+table  related_to  feature
+458
+459
+shadow  antonym  sun
+shadow  antonym  sun
+shadow  related_to  sun
+460
+it  related_to  two
+sit  related_to  day
+461
+462
+463
+464
+465
+book  related_to  newspaper
+466
+467
+newspaper  is_a (ant)  sport
+newspaper  is_a (ant)  sport
+468
+469
+470
+newspaper  synonym  paper
+471
+472
+man  antonym  woman
+newspaper  antonym  magazine
+man  antonym  woman
+newspaper  antonym  magazine
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+magazine  related_to  newspaper
+473
+newspaper  is_a  paper
+read  related_to  look
+474
+newspaper  is_a  paper
+street  related_to  building
+475
+man  antonym  woman
+man  antonym  woman
+dress  related_to  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+book  related_to  newspaper
+woman  related_to  old
+476
+attire  synonym  dress
+477
+guy  is_a  man
+478
+guy  related_to  person
+guy  related_to  person
+person  related_to  guy
+479
+guy  is_a  man
+480
+watch  related_to  two
+wear  related_to  watch
+watch  related_to  wear
+481
+something  related_to  one
+foot  related_to  one
+foot  related_to  wear
+482
+483
+friend  distinct from  girl
+friend  distinct from  girl
+484
+little  related_to  people
+little  related_to  people
+girl  related_to  people
+485
+boy  related_to  play
+play  related_to  two
+486
+kid  synonym  child
+487
+child  related_to  man
+rink  related_to  man
+488
+kid  synonym  child
+skate  related_to  ice
+skate  related_to  skating
+skating  related_to  skate
+rink  related_to  ice
+489
+490
+491
+492
+girl  is_a  kid
+493
+girl  is_a  kid
+494
+girl  is_a  kid
+play  related_to  two
+boy  related_to  play
+495
+496
+back  related_to  boy
+497
+498
+499
+500
+501
+502
+503
+dance  related_to  style
+504
+prepare  related_to  get
+ready  related_to  prepare
+ready  related_to  prepare
+ready  related_to  prepare
+prepare  related_to  ready
+prepare  related_to  ready
+505
+hold  synonym  throw
+506
+507
+508
+name  related_to  man
+509
+throw  antonym  eat
+throw  antonym  eat
+scarf  related_to  eat
+510
+511
+512
+513
+go  related_to  game
+go  related_to  game
+514
+go  related_to  game
+go  related_to  game
+515
+game  is_a  play
+basketball  is_a  sport
+man  antonym  people
+man  antonym  people
+man  related_to  people
+516
+517
+youth  synonym  young
+518
+youth  synonym  young
+boy  related_to  play
+519
+her  related_to  woman
+daughter  related_to  woman
+520
+521
+woman  is_a  man
+522
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+523
+524
+hand  related_to  have
+525
+anchor  related_to  boat
+anchor  related_to  rope
+526
+527
+528
+529
+musician  is_a  performer
+530
+man  antonym  people
+man  antonym  people
+play  related_to  multiple
+street  related_to  people
+man  related_to  people
+stand  related_to  present
+listen  related_to  people
+531
+bike  antonym  car
+stand  antonym  go
+bike  antonym  car
+stand  antonym  go
+car  related_to  four
+drive  related_to  four
+play  related_to  kid
+street  related_to  car
+car  related_to  street
+street  related_to  drive
+drive  related_to  street
+532
+man  antonym  people
+music  derivado_from (ant) musician
+man  antonym  people
+music  derivado_from (ant) musician
+musician  related_to  music
+musician  related_to  music
+instrument  related_to  music
+instrument  related_to  music
+music  related_to  instrument
+street  related_to  people
+street  related_to  outside
+man  related_to  group
+man  related_to  people
+listen  related_to  people
+music  related_to  listen
+533
+534
+535
+536
+537
+band  related_to  four
+crowd  related_to  four
+musician  related_to  band
+band  related_to  musician
+band  related_to  musician
+instrument  related_to  band
+band  related_to  instrument
+street  related_to  big
+crowd  related_to  street
+man  related_to  big
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+538
+539
+music  used_for (ant) instrument
+music  used_for (ant) instrument
+instrument  related_to  music
+instrument  related_to  music
+music  related_to  instrument
+stop  related_to  street
+540
+watch  related_to  instrument
+541
+542
+their  related_to  they
+they  related_to  their
+543
+544
+545
+play  related_to  outside
+play  related_to  outside
+546
+outdoors  is_a  outside
+band  used_for (ant) saxophone
+band  used_for (ant) saxophone
+547
+clarinet  is_a  instrument
+outdoors  is_a  outside
+saxophone  related_to  musical
+548
+549
+play  derivado_from (ant) playing
+play  derivado_from (ant) playing
+playing  related_to  play
+playing /home/david/OPENAI/RIT.py:427: UserWarning: [W008] Evaluating Doc.similarity based on empty vectors.
+  similitud_faltantes.append(doc1.similarity(doc2))
+/home/david/OPENAI/RIT.py:427: UserWarning: [W008] Evaluating Doc.similarity based on empty vectors.
+  similitud_faltantes.append(doc1.similarity(doc2))
+/home/david/OPENAI/RIT.py:427: UserWarning: [W008] Evaluating Doc.similarity based on empty vectors.
+  similitud_faltantes.append(doc1.similarity(doc2))
+ related_to  play
+playing  related_to  play
+550
+play  derivado_from (ant) playing
+play  derivado_from (ant) playing
+playing  related_to  play
+playing  related_to  play
+playing  related_to  play
+music  related_to  playing
+551
+552
+553
+554
+555
+drive  related_to  passenger
+556
+557
+558
+559
+cab  is_a  taxi
+560
+561
+562
+tow  related_to  car
+563
+564
+game  synonym  match
+565
+566
+battle  related_to  field
+field  related_to  battle
+field  related_to  match
+567
+opponent  antonym  team
+play  distinct from  fight
+grass  derivado_from (ant) grassy
+opponent  antonym  team
+play  distinct from  fight
+grass  derivado_from (ant) grassy
+opponent  related_to  team
+grassy  related_to  grass
+568
+569
+opponent  antonym  team
+opponent  antonym  team
+opponent  related_to  team
+field  related_to  play
+570
+ball  related_to  play
+field  related_to  play
+field  related_to  baseball
+571
+ball  related_to  play
+field  related_to  play
+572
+two  antonym  one
+two  antonym  one
+two  related_to  one
+one  related_to  two
+one  related_to  ball
+573
+574
+575
+man  antonym  girl
+black  antonym  bright
+man  antonym  girl
+black  antonym  bright
+old  related_to  young
+man  related_to  girl
+shirt  related_to  man
+shirt  related_to  wear
+576
+577
+578
+road  related_to  country
+579
+male  antonym  woman
+male  antonym  woman
+face  related_to  watch
+watch  related_to  face
+watch  related_to  hand
+overlook  related_to  watch
+ball  related_to  football
+ball  related_to  football
+football  related_to  ball
+580
+play  derivado_from (ant) player
+play  derivado_from (ant) player
+guy  related_to  male
+ball  related_to  play
+581
+his  related_to  about
+his  related_to  about
+hand  related_to  game
+ball  related_to  game
+game  related_to  ball
+582
+man  related_to  old
+old  related_to  red
+sit  related_to  sitting
+sitting  related_to  sit
+bench  related_to  sit
+583
+red  related_to  run
+584
+man  is_a  person
+585
+586
+she  synonym  he
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+587
+man  is_a  person
+588
+589
+man  antonym  woman
+his  antonym  her
+man  antonym  woman
+his  antonym  her
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+his  related_to  her
+her  related_to  his
+it  related_to  her
+590
+low  related_to  depressed
+low  related_to  depressed
+low  similar_to  depressed
+depressed  similar_to  low
+appear  related_to  look
+look  related_to  appear
+look  related_to  appear
+591
+child  related_to  young
+boy  related_to  child
+boy  related_to  child
+child  related_to  boy
+592
+593
+594
+horse  antonym  cow
+horse  antonym  cow
+horse  related_to  cow
+cow  related_to  horse
+595
+play  related_to  recess
+recess  related_to  playground
+596
+ride  related_to  bus
+597
+598
+599
+jockey  related_to  ride
+jockey  related_to  ride
+horse  related_to  jockey
+jockey  related_to  horse
+jockey  related_to  horse
+600
+child  related_to  young
+boy  related_to  child
+boy  related_to  child
+child  related_to  boy
+ride  related_to  park
+play  related_to  child
+play  related_to  park
+park  related_to  play
+plaything  related_to  play
+park  related_to  playground
+601
+boy  is_a  man
+602
+603
+child  related_to  young
+boy  related_to  child
+boy  related_to  child
+child  related_to  boy
+play  related_to  child
+604
+605
+boy  antonym  girl
+boy  antonym  girl
+boy  related_to  girl
+girl  related_to  boy
+606
+shoe  is_a  footwear
+tie  is_a (ant)  wear
+tie  is_a (ant)  wear
+tie  related_to  wear
+607
+608
+609
+610
+fight  related_to  people
+dart  related_to  sport
+611
+play  distinct from  fight
+play  distinct from  fight
+fight  related_to  people
+competition  related_to  fight
+ball  related_to  play
+sport  related_to  play
+play  related_to  sport
+612
+swimming  synonym  swim
+race  related_to  competition
+613
+614
+615
+616
+617
+618
+619
+hold  antonym  go
+swim  derivado_from (ant) swimmer
+hold  antonym  go
+swim  derivado_from (ant) swimmer
+swim  related_to  swimmer
+620
+man  synonym  male
+621
+have  synonym  hold
+622
+623
+624
+625
+see  related_to  picture
+626
+front  related_to  call
+627
+628
+629
+630
+boy  related_to  woman
+631
+632
+633
+634
+635
+black  antonym  white
+black  antonym  white
+yellow  related_to  white
+yellow  related_to  gold
+gold  related_to  yellow
+black  related_to  white
+black  related_to  white
+yellow  related_to  white
+yellow  related_to  gold
+gold  related_to  yellow
+blue  related_to  white
+blue  related_to  white
+636
+637
+638
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+bag  related_to  woman
+bag  related_to  woman
+639
+hold  synonym  carry
+640
+641
+child  related_to  man
+carry  related_to  boat
+642
+picture  used_for (ant) camera
+picture  used_for (ant) camera
+picture  related_to  camera
+643
+man  is_a  person
+644
+walk  antonym  sit
+walk  antonym  sit
+645
+646
+647
+climb  antonym  fall
+climb  antonym  fall
+648
+paddle  related_to  game
+649
+650
+kid  synonym  child
+paddle  related_to  game
+651
+boy  related_to  person
+use  related_to  stand
+652
+stand  antonym  sit
+stand  antonym  sit
+sit  related_to  stand
+653
+field  related_to  play
+654
+boy  related_to  play
+cricket  related_to  play
+cricket  related_to  play
+655
+boy  is_a  child
+cricket  related_to  play
+cricket  related_to  play
+656
+boy  is_a  child
+657
+game  related_to  basketball
+658
+659
+660
+cry  related_to  hungry
+661
+cry  antonym  smile
+cry  antonym  laugh
+cry  antonym  smile
+cry  antonym  laugh
+cry  related_to  laugh
+laugh  similar_to  cry
+662
+663
+they  related_to  their
+their  related_to  they
+664
+ride  related_to  park
+skate  related_to  skateboard
+665
+they  related_to  their
+their  related_to  they
+666
+do  related_to  perform
+do  related_to  perform
+perform  related_to  do
+667
+668
+ride  related_to  bike
+669
+670
+671
+672
+673
+skateboarder  derivado_from  skateboard
+674
+675
+676
+677
+678
+679
+performer  derivado_from  perform
+680
+performer  derivado_from  perform
+business  related_to  good
+681
+682
+683
+684
+play  related_to  around
+685
+kid  related_to  human
+686
+687
+friend  related_to  people
+boat  related_to  go
+688
+prepare  related_to  get
+prepare  related_to  ready
+prepare  related_to  ready
+ready  related_to  prepare
+ready  related_to  prepare
+ready  related_to  prepare
+689
+friend  related_to  people
+snow  related_to  water
+snow  related_to  water
+ice  related_to  water
+ice  related_to  water
+water  related_to  ice
+water  related_to  ice
+fishing  related_to  water
+dock  related_to  boat
+boat  related_to  water
+boat  related_to  water
+690
+691
+rock  synonym  ice
+concert  related_to  people
+stand  related_to  act
+fishing  related_to  act
+692
+693
+boat  related_to  go
+694
+people  related_to  group
+people  related_to  group
+group  related_to  people
+use  related_to  stand
+prepare  related_to  get
+prepare  related_to  ready
+prepare  related_to  ready
+ready  related_to  prepare
+ready  related_to  prepare
+ready  related_to  prepare
+695
+stand  related_to  hold
+snow  related_to  pole
+696
+people  related_to  group
+people  related_to  group
+group  related_to  people
+697
+snow  antonym  sun
+snow  antonym  sun
+698
+snow  related_to  outside
+699
+fix  synonym  prepare
+700
+stand  antonym  sit
+stand  antonym  sit
+three  related_to  two
+sit  related_to  stand
+snow  related_to  two
+fisherman  related_to  fishing
+fisherman  related_to  boat
+fisherman  related_to  boat
+701
+boat  related_to  go
+702
+climb  antonym  go
+climb  antonym  go
+climb  related_to  go
+703
+climb  antonym  go
+climb  antonym  go
+climb  related_to  go
+704
+climb  antonym  go
+book  antonym  library
+climb  antonym  go
+book  antonym  library
+climb  related_to  go
+library  related_to  room
+book  related_to  library
+library  related_to  book
+705
+706
+stair  derivado_from (ant) staircase
+stair  derivado_from (ant) staircase
+climb  related_to  walk
+climb  related_to  stair
+stair  related_to  staircase
+707
+stair  derivado_from (ant) staircase
+stair  derivado_from (ant) staircase
+climb  related_to  walk
+climb  related_to  steep
+climb  related_to  stair
+stair  related_to  staircase
+708
+many  related_to  large
+709
+blue  antonym  red
+blue  antonym  red
+blue  related_to  red
+blue  related_to  red
+710
+711
+712
+713
+714
+715
+716
+black  antonym  white
+black  antonym  white
+black  related_to  white
+black  related_to  white
+717
+play  related_to  two
+718
+719
+play  related_to  two
+720
+721
+white  related_to  butt
+butt  related_to  face
+722
+dog  is_a  pet
+723
+724
+child  related_to  face
+725
+726
+white  related_to  light
+white  related_to  light
+white  similar_to  light
+light  related_to  white
+light  similar_to  white
+squirt  related_to  stream
+squirt  related_to  stream
+jet  related_to  stream
+727
+728
+729
+730
+731
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+cat  related_to  dog
+732
+733
+734
+face  antonym  body
+face  antonym  body
+face  related_to  body
+water  related_to  wet
+wet  related_to  water
+water  related_to  body
+body  related_to  water
+735
+736
+party  related_to  human
+building  related_to  tall
+building  related_to  human
+737
+party  related_to  human
+building  related_to  human
+738
+photograph  synonym  picture
+marriage  synonym  wedding
+wedding  is_a  ceremony
+739
+photo  synonym  picture
+party  related_to  people
+party  related_to  function
+740
+party  related_to  people
+party  related_to  gather
+picture  related_to  people
+741
+wedding  related_to  marry
+marry  related_to  wedding
+742
+743
+744
+three  related_to  four
+four  related_to  three
+same  related_to  together
+together  related_to  same
+745
+talk  synonym  conversation
+people  antonym  man
+people  antonym  man
+man  related_to  people
+746
+people  antonym  man
+people  antonym  man
+man  related_to  lady
+have  related_to  hold
+have  related_to  hold
+hold  related_to  have
+three  related_to  four
+four  related_to  three
+man  related_to  people
+747
+748
+talk  is_a  conversation
+749
+talk  antonym  sit
+talk  antonym  silently
+talk  antonym  sit
+talk  antonym  silently
+table  related_to  sit
+750
+place  distinct from  thing
+place  distinct from  thing
+there  related_to  place
+place  related_to  there
+table  related_to  place
+place  related_to  table
+meeting  related_to  people
+company  related_to  people
+people  related_to  place
+thing  related_to  place
+751
+place  distinct from  thing
+place  distinct from  thing
+there  related_to  place
+place  related_to  there
+table  related_to  place
+place  related_to  table
+thing  related_to  place
+752
+group  related_to  thing
+753
+game  is_a  play
+754
+net  related_to  basketball
+hockey  related_to  game
+game  related_to  player
+puck  related_to  game
+755
+game  is_a  play
+756
+he  related_to  man
+he  related_to  man
+757
+net  related_to  basketball
+hockey  related_to  game
+game  related_to  player
+puck  related_to  game
+758
+he  related_to  man
+he  related_to  man
+759
+760
+laundry  is_a (ant)  laundromat
+laundry  is_a (ant)  laundromat
+laundromat  related_to  laundry
+clean  related_to  washing
+761
+762
+763
+764
+765
+766
+767
+he  related_to  man
+laundromat  related_to  dryer
+768
+laundromat  is_a  laundry
+769
+shirt  related_to  wear
+770
+washing  synonym  wash
+771
+patron  related_to  store
+772
+patron  is_a  customer
+laundromat  is_a  laundry
+wash  related_to  do
+773
+774
+examine  synonym  look
+775
+laundromat  is_a  laundry
+776
+777
+dive  related_to  water
+dive  related_to  water
+dive  related_to  water
+778
+779
+daffodil  is_a  flower
+child  related_to  young
+girl  related_to  child
+girl  related_to  child
+child  related_to  girl
+child  related_to  girl
+pick  related_to  plant
+780
+daffodil  is_a  flower
+daffodil  is_a  flower
+young  similar_to  little
+little  related_to  young
+little  similar_to  young
+little  related_to  young
+781
+daffodil  is_a  flower
+782
+783
+look  derivado_from (ant) overlook
+water  has_a (ant) ocean
+look  derivado_from (ant) overlook
+water  has_a (ant) ocean
+rock  related_to  water
+rock  related_to  water
+overlook  related_to  look
+ocean  related_to  water
+ocean  related_to  water
+water  related_to  ocean
+784
+swim  related_to  ocean
+ocean  related_to  shore
+785
+look  synonym  front
+sandy  derivado_from  sand
+beach  synonym  sand
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+786
+787
+ocean  is_a  sea
+788
+man  is_a  person
+789
+man  antonym  woman
+man  antonym  woman
+man  similar_to  woman
+woman  related_to  man
+woman  similar_to  man
+790
+791
+bed  related_to  stand
+bed  related_to  top
+792
+793
+794
+fishing  derivado_from  fish
+795
+red  related_to  black
+black  related_to  red
+796
+797
+woman  is_a  man
+redhead  related_to  red
+798
+redhead  related_to  red
+799
+blonde  related_to  haired
+blonde  related_to  woman
+800
+trout  related_to  lake
+801
+girl  antonym  boy
+girl  antonym  boy
+girl  related_to  boy
+boy  related_to  girl
+boy  related_to  hair
+fish  related_to  swim
+swim  related_to  fish
+swim  related_to  fish
+802
+803
+804
+lady  is_a  woman
+805
+fishing  derivado_from  fish
+806
+807
+red  derivado_from (ant) redheaded
+red  derivado_from (ant) redheaded
+redheaded  related_to  red
+808
+809
+810
+redheaded  related_to  redhead
+811
+812
+hair  derivado_from (ant) haired
+hair  derivado_from (ant) haired
+haired  related_to  hair
+813
+lady  synonym  woman
+814
+woman  is_a  man
+815
+girl  antonym  guy
+girl  antonym  guy
+816
+girl  related_to  person
+817
+818
+group  related_to  people
+people  related_to  group
+people  related_to  group
+grill  related_to  cook
+cook  related_to  food
+cook  related_to  food
+burn  related_to  cook
+819
+go  related_to  group
+820
+food  related_to  eat
+food  related_to  eat
+eat  related_to  food
+eat  related_to  food
+eat  related_to  food
+food  related_to  dinner
+dinner  related_to  food
+821
+cooking  derivado_from  cook
+camp  derivado_from (ant) camper
+camp  derivado_from (ant) camper
+camper  related_to  camp
+fire  related_to  camp
+camp  related_to  fire
+822
+steak  related_to  dinner
+823
+coal  related_to  wood
+light  related_to  start
+824
+friend  related_to  people
+825
+friend  related_to  people
+cook  related_to  food
+cook  related_to  food
+fire  related_to  food
+826
+camp  related_to  group
+fire  related_to  camp
+camp  related_to  fire
+827
+four  synonym  4
+bed  related_to  stand
+828
+people  is_a  family
+829
+do  synonym  cook
+people  related_to  group
+people  related_to  group
+group  related_to  people
+fire  related_to  food
+meal  related_to  food
+meal  related_to  food
+food  related_to  meal
+830
+831
+832
+friend  related_to  people
+833
+dog  related_to  animal
+animal  related_to  dog
+dog  related_to  animal
+animal  related_to  dog
+834
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+cat  related_to  dog
+cat  related_to  small
+dog  related_to  cat
+cat  related_to  dog
+835
+dog  is_a (ant)  puppy
+dog  is_a (ant)  puppy
+dog  related_to  puppy
+puppy  related_to  dog
+puppy  related_to  dog
+puppy  related_to  small
+dog  related_to  puppy
+puppy  related_to  dog
+puppy  related_to  dog
+836
+plaster  related_to  cover
+837
+walk  antonym  stand
+walk  antonym  stand
+walk  related_to  stand
+plaster  related_to  cover
+838
+front  related_to  cover
+cover  related_to  front
+plaster  related_to  cover
+839
+foot  related_to  small
+bed  related_to  big
+840
+841
+842
+nip  is_a  bite
+843
+844
+845
+846
+847
+848
+bring  related_to  hold
+849
+have  synonym  hold
+850
+it  derivado_from (ant) its
+it  derivado_from (ant) its
+hold  related_to  have
+have  related_to  hold
+have  related_to  hold
+its  related_to  it
+it  related_to  its
+851
+852
+dog  is_a  canine
+water  related_to  white
+853
+play  synonym  run
+shore  is_a (ant)  beach
+shore  is_a (ant)  beach
+beach  related_to  pebble
+shore  related_to  beach
+beach  related_to  shore
+beach  related_to  shore
+854
+855
+go  related_to  ride
+856
+857
+858
+859
+860
+861
+girl  antonym  boy
+girl  antonym  boy
+boy  related_to  young
+boy  related_to  young
+girl  related_to  boy
+boy  related_to  girl
+862
+863
+864
+865
+866
+867
+parking  related_to  park
+parking  related_to  park
+park  related_to  lot
+868
+car  related_to  parking
+lot  related_to  car
+car  related_to  lot
+869
+woman  is_a (ant)  girlfriend
+woman  is_a (ant)  girlfriend
+woman  related_to  girlfriend
+870
+curb  related_to  street
+man  related_to  two
+man  related_to  people
+street  related_to  black
+phone  related_to  people
+871
+blonde  synonym  blond
+872
+873
+874
+doorway  synonym  door
+875
+shoe  antonym  barefoot
+shoe  antonym  barefoot
+shoe  related_to  walk
+876
+cellphone  is_a  phone
+man  antonym  husband
+man  antonym  husband
+man  related_to  husband
+man  related_to  husband
+husband  related_to  man
+husband  related_to  man
+877
+shoelace /home/david/OPENAI/RIT.py:427: UserWarning: [W008] Evaluating Doc.similarity based on empty vectors.
+  similitud_faltantes.append(doc1.similarity(doc2))
+/home/david/OPENAI/RIT.py:427: UserWarning: [W008] Evaluating Doc.similarity based on empty vectors.
+  similitud_faltantes.append(doc1.similarity(doc2))
+ derivado_from  shoe
+cellphone  is_a  phone
+fix  related_to  not
+notice  related_to  look
+878
+879
+photograph  is_a  picture
+880
+881
+infant  synonym  baby
+882
+883
+laugh  related_to  comedy
+comedy  related_to  laugh
+reflection  related_to  show
+884
+barefoot  antonym  shoe
+barefoot  antonym  shoe
+read  related_to  finish
+885
+lake  has_a  water
+barefoot  antonym  shoe
+barefoot  antonym  shoe
+886
+barefoot  antonym  shoe
+barefoot  antonym  shoe
+barefoot  related_to  wear
+barefoot  related_to  wear
+887
+house  related_to  stand
+888
+sport  is_a (ant)  soccer
+sport  is_a (ant)  soccer
+play  related_to  two
+sport  related_to  play
+play  related_to  sport
+soccer  related_to  sport
+field  related_to  play
+field  related_to  soccer
+889
+field  related_to  outside
+890
+man  antonym  people
+man  antonym  people
+appear  related_to  there
+man  related_to  people
+man  related_to  people
+891
+building  is_a (ant)  school
+building  is_a (ant)  school
+school  related_to  building
+892
+man  antonym  people
+man  antonym  people
+appear  related_to  see
+fight  related_to  two
+man  related_to  people
+man  related_to  people
+893
+hat  related_to  head
+hat  related_to  head
+head  related_to  hat
+894
+895
+896
+big  related_to  build
+goal  related_to  field
+897
+build  related_to  together
+goal  related_to  field
+898
+sit  related_to  goal
+899
+900
+901
+902
+shirt  related_to  wear
+903
+904
+shirtless  related_to  shirt
+905
+mascot  related_to  group
+suit  related_to  outfit
+suit  related_to  outfit
+906
+school  related_to  group
+907
+908
+child  is_a (ant)  boy
+child  is_a (ant)  boy
+child  related_to  boy
+boy  related_to  child
+boy  related_to  child
+909
+910
+911
+child  related_to  man
+912
+913
+914
+play  related_to  build
+915
+fortress  synonym  fort
+play  related_to  build
+916
+917
+helmet  related_to  gear
+918
+ride  related_to  bike
+919
+920
+boy  related_to  woman
+horse  related_to  black
+blue  related_to  boy
+921
+922
+rider  related_to  ride
+construction  related_to  work
+923
+red  related_to  black
+black  related_to  red
+red  related_to  black
+black  related_to  red
+black  related_to  piece
+924
+clothing  related_to  jacket
+jacket  related_to  clothing
+jacket  related_to  clothing
+suit  related_to  clothing
+925
+926
+man  synonym  person
+927
+man  synonym  person
+riding  related_to  ride
+riding  related_to  ride
+928
+riding  related_to  ride
+riding  related_to  ride
+929
+930
+bike  is_a  bicycle
+931
+932
+watch  synonym  look
+933
+934
+935
+936
+937
+938
+939
+940
+941
+942
+943
+sit  related_to  stand
+944
+945
+cookie  related_to  small
+946
+947
+948
+sit  synonym  seat
+desk  related_to  reading
+949
+art  related_to  work
+front  related_to  money
+desk  related_to  work
+950
+951
+952
+953
+954
+run  related_to  fast
+run  related_to  fast
+fast  related_to  run
+race  related_to  fast
+955
+number  is_a  digit
+956
+eight  antonym  seven
+eight  antonym  seven
+jacket  related_to  wear
+eight  related_to  seven
+seven  related_to  eight
+957
+run  related_to  fast
+run  related_to  fast
+fast  related_to  run
+race  related_to  fast
+958
+track  related_to  race
+959
+track  synonym  racetrack
+960
+dog  related_to  beagle
+961
+962
+track  synonym  racetrack
+dog  related_to  horse
+horse  related_to  dog
+horse  related_to  black
+black  related_to  race
+horse  related_to  run
+run  related_to  race
+run  related_to  race
+race  related_to  run
+race  related_to  run
+963
+dog  is_a (ant)  puppy
+dog  is_a (ant)  puppy
+dog  related_to  puppy
+puppy  related_to  dog
+puppy  related_to  dog
+964
+race  derivado_from (ant) racetrack
+race  derivado_from (ant) racetrack
+black  related_to  race
+racetrack  related_to  race
+965
+race  derivado_from (ant) racetrack
+race  derivado_from (ant) racetrack
+black  related_to  race
+run  related_to  race
+run  related_to  race
+race  related_to  run
+race  related_to  run
+run  related_to  compete
+racetrack  related_to  race
+966
+dog  related_to  animal
+animal  related_to  dog
+967
+968
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+cat  related_to  dog
+969
+970
+971
+972
+973
+dog  related_to  animal
+animal  related_to  dog
+974
+race  synonym  run
+975
+976
+977
+wear  related_to  watch
+watch  related_to  wear
+wait  related_to  watch
+watch  related_to  wait
+978
+sign  related_to  autograph
+autograph  related_to  sign
+signing  related_to  sign
+979
+line  related_to  book
+980
+man  related_to  male
+male  related_to  man
+981
+market  synonym  marketplace
+982
+983
+motorbike  synonym  motorcycle
+perform  related_to  do
+do  related_to  perform
+do  related_to  perform
+wheelie  related_to  stunt
+wheelie  related_to  stunt
+trick  related_to  stunt
+984
+person  antonym  woman
+ride  used_for (ant) motorcycle
+person  antonym  woman
+ride  used_for (ant) motorcycle
+person  related_to  woman
+woman  related_to  person
+motorcycle  related_to  ride
+ride  related_to  motorcycle
+985
+motorbike  synonym  motorcycle
+wheelie  related_to  stunt
+wheelie  related_to  stunt
+trick  related_to  stunt
+986
+stuntman  derivado_from  stunt
+987
+988
+stuntman  derivado_from  stunt
+989
+990
+bike  synonym  motorcycle
+991
+992
+rider  related_to  ride
+993
+person  synonym  someone
+994
+bike  synonym  motorcycle
+sideways  related_to  side
+sideways  related_to  side
+995
+ride  related_to  park
+ride  related_to  car
+996
+sit  synonym  ride
+997
+person  synonym  someone
+998
+rider  related_to  ride
+999
+Tiempo que se llevo: 24462.27  segundos

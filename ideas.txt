@@ -1,0 +1,21 @@
+https://github.com/babylonhealth/corrsim/tree/master
+
+
+teoría del transporte es un nombre dado al estudio de óptimo transporte y asignación de recursos.
+
+Una alternativa destacada a esos enfoques basados en la correlación es la información mutua (IM),
+que es de gran importancia en la teoría de la información
+y la estadística. En cierto sentido, la información mutua
+es una excelente candidata para medir la similitud
+entre incrustaciones de palabras, ya que puede capturar dependencias arbitrarias entre las variables y tiene una expresión sencilla e intuitiva.
+una expresión sencilla e intuitiva. Desgraciadamente, hasta ahora se ha evitado su uso en el contexto de representaciones de palabras densas y continuas.
+hasta ahora se ha evitado debido a las dificultades
+las dificultades de estimar el IM para variables aleatorias continuas (en la práctica no se conocen las densidades conjuntas y marginales).
+en la práctica).
+con bandas
+Se demuestra que la información mutua es una alternativa viable a las correlaciones, da una señal excelente que se correlaciona bien con los juicios humanos de similitud y rivaliza con los métodos no supervisados de vanguardia existentes.
+
+
+No existe una definición objetiva de similitud. Que "me gustan las hamburguesas" y "me gusta la pasta" sean similares depende de su aplicación. Ambas hablan de preferencias alimentarias, lo que las hace muy similares, pero si está analizando menciones de comida, esas frases son bastante disímiles, porque hablan de comidas muy diferentes.
+La similitud de los objetos Doc y Span es, por defecto, la media de los vectores de los tokens. Esto significa que el vector de "comida rápida" es la media de los vectores de "rápida" y "comida", lo que no es necesariamente representativo de la frase "comida rápida".
+El promedio vectorial significa que el vector de múltiples tokens es insensible al orden de las palabras. Dos documentos que expresen el mismo significado con una redacción distinta arrojarán una puntuación de similitud más baja que dos documentos que contengan las mismas palabras pero expresen significados distintos.

@@ -1,0 +1,6477 @@
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+0
+0 100
+1
+1 100
+2
+figure  related_to  ice
+2 100
+3
+ball  used_for  game
+people  antonym  person
+people  antonym  person
+people  related_to  person
+3 100
+4
+4 100
+5
+people  antonym  person
+snow  distinct from  sand
+people  antonym  person
+snow  distinct from  sand
+people  related_to  person
+white  related_to  snow
+5 100
+6
+6 100
+7
+man  antonym  people
+man  antonym  people
+man  related_to  people
+dance  related_to  people
+7 100
+8
+8 100
+9
+face  related_to  head
+cap  related_to  head
+shade  related_to  head
+9 100
+10
+10 100
+11
+11 100
+12
+12 100
+13
+13 100
+14
+14 100
+15
+jockey  related_to  man
+shirt  related_to  man
+15 100
+16
+play  related_to  several
+play  related_to  several
+16 100
+17
+man  is_a  adult
+build  related_to  work
+17 100
+18
+18 100
+19
+coat  related_to  shirt
+19 100
+20
+gentleman  is_a  man
+overlook  related_to  look
+20 100
+21
+21 100
+22
+22 100
+23
+23 100
+24
+woman  is_a  man
+24 100
+25
+girl  is_a  woman
+25 100
+26
+fly  related_to  black
+26 100
+27
+27 100
+28
+28 100
+29
+moon  is_a  place
+29 100
+30
+30 100
+31
+31 100
+32
+coat  related_to  cold
+snow  related_to  cold
+32 100
+33
+guy  is_a  man
+33 100
+34
+girl  antonym  friend
+girl  antonym  friend
+rink  related_to  hockey
+rink  related_to  team
+34 100
+35
+35 100
+36
+36 100
+37
+blue  related_to  other
+37 100
+38
+38 100
+39
+39 100
+40
+40 100
+41
+41 100
+42
+42 100
+43
+cut  related_to  deep
+43 100
+44
+44 100
+45
+youngster  related_to  young
+45 100
+46
+46 100
+47
+47 100
+48
+black  is_a  man
+talk  related_to  chat
+48 100
+49
+49 100
+50
+50 100
+51
+51 100
+52
+52 100
+53
+53 100
+54
+54 100
+55
+55 100
+56
+56 100
+57
+57 100
+58
+dance  antonym  sit
+dance  antonym  sit
+58 100
+59
+59 100
+60
+skirt  related_to  woman
+blue  related_to  woman
+60 100
+61
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+surf  related_to  wave
+61 100
+62
+woman  is_a  female
+hand  related_to  have
+62 100
+63
+63 100
+64
+dress  related_to  wear
+jacket  related_to  wear
+64 100
+65
+bicycle  is_a  bike
+ground  related_to  outside
+65 100
+66
+door  related_to  way
+66 100
+67
+67 100
+68
+smile  related_to  happy
+68 100
+69
+woman  is_a  man
+69 100
+70
+70 100
+71
+instrument  related_to  play
+71 100
+72
+72 100
+73
+woman  is_a  person
+shirt  related_to  arm
+73 100
+74
+raceway  related_to  race
+74 100
+75
+woman  is_a  man
+75 100
+76
+76 100
+77
+walk  antonym  run
+walk  antonym  run
+walk  related_to  run
+77 100
+78
+78 100
+79
+79 100
+80
+80 100
+81
+81 100
+82
+lady  is_a  woman
+canoe  is_a  boat
+fill  related_to  load
+82 100
+83
+83 100
+84
+street  related_to  pavement
+front  related_to  move
+84 100
+85
+85 100
+86
+86 100
+87
+87 100
+88
+88 100
+89
+farmer  related_to  life
+89 100
+90
+woman  is_a  man
+90 100
+91
+91 100
+92
+92 100
+93
+textbook  is_a  book
+93 100
+94
+94 100
+95
+95 100
+96
+96 100
+97
+97 100
+98
+98 100
+99
+99 100
+100
+gentleman  is_a  man
+can  is_a  container
+100 100
+guardado 100
+101
+rake  related_to  yard
+home  related_to  yard
+home  related_to  work
+101 200
+102
+102 200
+103
+instrument  related_to  violin
+103 200
+104
+104 200
+105
+driver  is_a  person
+105 200
+106
+bicycle  is_a  bike
+106 200
+107
+107 200
+108
+water  related_to  ocean
+108 200
+109
+109 200
+110
+110 200
+111
+111 200
+112
+112 200
+113
+113 200
+114
+photograph  is_a  picture
+walk  related_to  take
+114 200
+115
+115 200
+116
+chop  is_a  cut
+116 200
+117
+117 200
+118
+118 200
+119
+swim  related_to  water
+pool  related_to  water
+119 200
+120
+120 200
+121
+lady  is_a  woman
+121 200
+122
+guy  is_a  man
+122 200
+123
+123 200
+124
+outside  antonym  inside
+outside  antonym  inside
+124 200
+125
+125 200
+126
+126 200
+127
+127 200
+128
+128 200
+129
+129 200
+130
+130 200
+131
+131 200
+132
+bicycle  is_a  bike
+132 200
+133
+crowd  related_to  herd
+walk  related_to  pedestrian
+133 200
+134
+134 200
+135
+135 200
+136
+136 200
+137
+137 200
+138
+lady  related_to  woman
+lady  related_to  woman
+138 200
+139
+tall  antonym  short
+tall  antonym  short
+stop  related_to  short
+139 200
+140
+140 200
+141
+141 200
+142
+water  related_to  life
+142 200
+143
+143 200
+144
+fish  related_to  water
+144 200
+145
+145 200
+146
+146 200
+147
+woman  is_a  man
+147 200
+148
+lady  is_a  woman
+148 200
+149
+149 200
+150
+150 200
+151
+151 200
+152
+lady  is_a  woman
+152 200
+153
+153 200
+154
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+154 200
+155
+155 200
+156
+wear  related_to  watch
+156 200
+157
+man  related_to  people
+157 200
+158
+158 200
+159
+guy  is_a  man
+159 200
+160
+run  related_to  walk
+160 200
+161
+yellow  antonym  red
+yellow  antonym  red
+yellow  related_to  red
+161 200
+162
+ocean  related_to  water
+fish  related_to  water
+162 200
+163
+163 200
+164
+164 200
+165
+roll  related_to  leave
+165 200
+166
+boy  related_to  kid
+166 200
+167
+167 200
+168
+168 200
+169
+169 200
+170
+top  antonym  bottom
+top  antonym  bottom
+top  related_to  bottom
+phone  related_to  people
+hand  related_to  people
+170 200
+171
+171 200
+172
+172 200
+173
+173 200
+174
+young  similar_to  little
+174 200
+175
+175 200
+176
+176 200
+177
+column  related_to  large
+177 200
+178
+pathway  is_a  path
+178 200
+179
+man  antonym  people
+man  antonym  people
+man  related_to  people
+179 200
+180
+180 200
+181
+181 200
+182
+black  antonym  white
+black  antonym  white
+black  related_to  white
+182 200
+183
+boy  related_to  parent
+183 200
+184
+184 200
+185
+view  is_a  look
+guy  related_to  person
+185 200
+186
+playing  related_to  play
+186 200
+187
+187 200
+188
+188 200
+189
+189 200
+190
+190 200
+191
+191 200
+192
+apple  related_to  computer
+192 200
+193
+193 200
+194
+194 200
+195
+195 200
+196
+father  is_a  man
+196 200
+197
+197 200
+198
+198 200
+199
+199 200
+200
+wife  is_a  woman
+200 200
+guardado 200
+201
+201 300
+202
+202 300
+203
+wear  related_to  ready
+203 300
+204
+man  related_to  human
+204 300
+205
+205 300
+206
+drill  related_to  hole
+206 300
+207
+207 300
+208
+208 300
+209
+209 300
+210
+210 300
+211
+man  is_a  person
+button  related_to  clothing
+shirt  related_to  clothing
+laugh  related_to  merry
+211 300
+212
+man  is_a  male
+stand  antonym  sit
+stand  antonym  sit
+212 300
+213
+shirt  related_to  wear
+page  related_to  read
+213 300
+214
+walk  antonym  stand
+walk  antonym  stand
+park  related_to  ground
+walk  related_to  ground
+walk  related_to  stand
+214 300
+215
+215 300
+216
+woman  is_a  man
+bicycle  is_a  bike
+216 300
+217
+217 300
+218
+girl  antonym  friend
+girl  antonym  friend
+street  related_to  house
+look  related_to  there
+window  related_to  house
+218 300
+219
+219 300
+220
+ride  antonym  walk
+ride  antonym  walk
+220 300
+221
+table  related_to  dinner
+wine  related_to  dinner
+table  related_to  dinner
+221 300
+222
+flute  is_a  instrument
+man  antonym  lady
+man  antonym  lady
+man  related_to  lady
+222 300
+223
+black  antonym  white
+black  antonym  white
+black  related_to  white
+black  related_to  white
+blue  related_to  white
+gray  related_to  white
+eye  related_to  have
+eye  related_to  white
+223 300
+224
+224 300
+225
+225 300
+226
+guy  is_a  man
+226 300
+227
+227 300
+228
+228 300
+229
+229 300
+230
+blue  related_to  clothing
+shirt  related_to  clothing
+230 300
+231
+231 300
+232
+baby  related_to  mother
+232 300
+233
+play  related_to  enjoy
+233 300
+234
+next  related_to  line
+234 300
+235
+235 300
+236
+hockey  is_a  sport
+236 300
+237
+street  related_to  outside
+237 300
+238
+walk  antonym  run
+walk  antonym  run
+walk  related_to  run
+238 300
+239
+239 300
+240
+240 300
+241
+241 300
+242
+student  related_to  people
+242 300
+243
+243 300
+244
+244 300
+245
+245 300
+246
+guy  is_a  man
+bus  is_a  car
+246 300
+247
+247 300
+248
+field  related_to  outside
+248 300
+249
+249 300
+250
+250 300
+251
+251 300
+252
+252 300
+253
+253 300
+254
+254 300
+255
+ice  is_a  water
+255 300
+256
+street  related_to  walk
+street  related_to  house
+256 300
+257
+257 300
+258
+258 300
+259
+tumble  related_to  fall
+259 300
+260
+tug  is_a  pull
+260 300
+261
+261 300
+262
+guy  is_a  man
+book  related_to  reading
+262 300
+263
+263 300
+264
+264 300
+265
+265 300
+266
+ocean  related_to  water
+fish  related_to  water
+266 300
+267
+267 300
+268
+268 300
+269
+269 300
+270
+woman  is_a  man
+270 300
+271
+271 300
+272
+young  similar_to  little
+272 300
+273
+273 300
+274
+274 300
+275
+inside  antonym  outside
+inside  antonym  outside
+inside  related_to  outside
+275 300
+276
+276 300
+277
+boy  is_a  man
+dark  related_to  sun
+277 300
+278
+outdoors  is_a  outside
+278 300
+279
+279 300
+280
+280 300
+281
+outdoor  antonym  indoor
+outdoor  antonym  indoor
+281 300
+282
+282 300
+283
+283 300
+284
+edge  related_to  outside
+body  related_to  outside
+284 300
+285
+guy  is_a  man
+285 300
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+286
+sleep  antonym  awake
+sleep  antonym  awake
+sleep  related_to  awake
+286 300
+287
+white  related_to  cream
+287 300
+288
+street  related_to  drive
+288 300
+289
+skirt  is_a  dress
+sweep  related_to  clean
+289 300
+290
+290 300
+291
+play  related_to  lay
+291 300
+292
+292 300
+293
+bench  related_to  park
+293 300
+294
+man  related_to  people
+baby  related_to  people
+294 300
+295
+295 300
+296
+296 300
+297
+297 300
+298
+shirt  related_to  wear
+298 300
+299
+blue  antonym  green
+blue  antonym  green
+blue  related_to  green
+299 300
+300
+300 300
+guardado 300
+301
+give  related_to  hand
+301 400
+302
+302 400
+303
+grass  related_to  yard
+spray  related_to  water
+hose  related_to  water
+303 400
+304
+304 400
+305
+305 400
+306
+306 400
+307
+307 400
+308
+308 400
+309
+helmet  related_to  wear
+horse  related_to  tall
+309 400
+310
+310 400
+311
+311 400
+312
+312 400
+313
+woman  is_a  man
+313 400
+314
+314 400
+315
+convertible  related_to  car
+315 400
+316
+316 400
+317
+317 400
+318
+man  related_to  living
+blue  related_to  pizza
+polish  related_to  make
+318 400
+319
+river  related_to  fishing
+319 400
+320
+320 400
+321
+321 400
+322
+play  related_to  do
+read  related_to  do
+322 400
+323
+323 400
+324
+girl  is_a  woman
+324 400
+325
+food  related_to  eat
+325 400
+326
+326 400
+327
+pelican  is_a  bird
+327 400
+328
+328 400
+329
+329 400
+330
+330 400
+331
+blue  related_to  before
+331 400
+332
+332 400
+333
+333 400
+334
+try  related_to  want
+334 400
+335
+335 400
+336
+tiny  related_to  small
+wave  related_to  small
+336 400
+337
+337 400
+338
+walk  antonym  run
+walk  antonym  run
+walk  related_to  run
+338 400
+339
+339 400
+340
+340 400
+341
+341 400
+342
+342 400
+343
+work  related_to  result
+work  related_to  boss
+343 400
+344
+344 400
+345
+345 400
+346
+black  is_a  clothing
+346 400
+347
+347 400
+348
+348 400
+349
+349 400
+350
+350 400
+351
+right  similar_to  outside
+351 400
+352
+352 400
+353
+man  is_a  person
+mountain  related_to  pick
+353 400
+354
+354 400
+355
+party  is_a  person
+355 400
+356
+family  is_a  group
+girl  related_to  small
+356 400
+357
+357 400
+358
+358 400
+359
+girl  antonym  boy
+girl  antonym  boy
+girl  related_to  boy
+359 400
+360
+boy  is_a  man
+360 400
+361
+circus  is_a  show
+361 400
+362
+362 400
+363
+guy  is_a  man
+363 400
+364
+364 400
+365
+365 400
+366
+366 400
+367
+fight  distinct from  play
+fight  distinct from  play
+367 400
+368
+368 400
+369
+369 400
+370
+370 400
+371
+371 400
+372
+372 400
+373
+373 400
+374
+cut  related_to  use
+374 400
+375
+375 400
+376
+376 400
+377
+377 400
+378
+crowded  related_to  crowd
+public  related_to  crowd
+378 400
+379
+bite  related_to  eat
+379 400
+380
+red  antonym  blue
+red  antonym  blue
+380 400
+381
+381 400
+382
+man  related_to  group
+wear  related_to  watch
+man  related_to  group
+dance  related_to  performance
+382 400
+383
+383 400
+384
+car  distinct from  bike
+car  distinct from  bike
+person  related_to  living
+ride  related_to  car
+384 400
+385
+385 400
+386
+outdoors  is_a  outside
+386 400
+387
+coat  related_to  wear
+387 400
+388
+talk  antonym  sit
+talk  antonym  sit
+drink  related_to  bar
+table  related_to  sit
+388 400
+389
+line  related_to  very
+lake  related_to  large
+389 400
+390
+sleep  related_to  tired
+390 400
+391
+391 400
+392
+walk  antonym  sit
+walk  antonym  sit
+392 400
+393
+393 400
+394
+guy  related_to  person
+guy  related_to  person
+394 400
+395
+395 400
+396
+396 400
+397
+397 400
+398
+398 400
+399
+399 400
+400
+man  is_a  person
+400 400
+guardado 400
+401
+401 500
+402
+402 500
+403
+girl  related_to  people
+403 500
+404
+404 500
+405
+405 500
+406
+406 500
+407
+407 500
+408
+408 500
+409
+409 500
+410
+game  is_a  play
+410 500
+411
+411 500
+412
+412 500
+413
+413 500
+414
+pool  related_to  water
+414 500
+415
+415 500
+416
+music  is_a  sound
+board  related_to  play
+416 500
+417
+number  related_to  person
+ride  related_to  sail
+417 500
+418
+flight  related_to  fly
+418 500
+419
+419 500
+420
+420 500
+421
+421 500
+422
+422 500
+423
+woman  is_a  man
+sit  antonym  stand
+table  antonym  chair
+sit  antonym  stand
+table  antonym  chair
+sit  related_to  stand
+sit  related_to  chair
+table  related_to  stand
+table  related_to  chair
+423 500
+424
+424 500
+425
+green  related_to  grass
+lawn  related_to  grass
+425 500
+426
+426 500
+427
+427 500
+428
+428 500
+429
+429 500
+430
+photo  is_a  photograph
+430 500
+431
+431 500
+432
+432 500
+433
+house  is_a  building
+person  related_to  shoot
+433 500
+434
+434 500
+435
+435 500
+436
+wife  is_a  woman
+436 500
+437
+437 500
+438
+438 500
+439
+439 500
+440
+440 500
+441
+441 500
+442
+442 500
+443
+443 500
+444
+444 500
+445
+445 500
+446
+446 500
+447
+paint  antonym  draw
+paint  antonym  draw
+paint  related_to  draw
+447 500
+448
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+448 500
+449
+paper  used_for  origami
+449 500
+450
+man  is_a  person
+450 500
+451
+451 500
+452
+452 500
+453
+453 500
+454
+woman  is_a  man
+454 500
+455
+455 500
+456
+456 500
+457
+crowd  antonym  people
+crowd  antonym  people
+crowd  related_to  people
+457 500
+458
+458 500
+459
+walk  antonym  run
+walk  antonym  run
+walk  related_to  run
+459 500
+460
+460 500
+461
+team  related_to  people
+461 500
+462
+throw  antonym  catch
+throw  antonym  catch
+throw  related_to  football
+ball  related_to  play
+ball  related_to  catch
+ball  related_to  football
+462 500
+463
+463 500
+464
+464 500
+465
+desk  antonym  chair
+desk  antonym  chair
+recline  related_to  lean
+recline  related_to  back
+desk  related_to  chair
+465 500
+466
+rowboat  is_a  boat
+river  related_to  small
+river  related_to  water
+466 500
+467
+467 500
+468
+street  related_to  people
+street  related_to  outside
+468 500
+469
+469 500
+470
+man  related_to  people
+picture  related_to  people
+470 500
+471
+471 500
+472
+walk  antonym  run
+walk  antonym  run
+walk  related_to  run
+472 500
+473
+473 500
+474
+474 500
+475
+475 500
+476
+476 500
+477
+building  related_to  floor
+477 500
+478
+478 500
+479
+479 500
+480
+480 500
+481
+481 500
+482
+tomato  is_a  vegetable
+482 500
+483
+girl  antonym  boy
+girl  antonym  boy
+girl  related_to  boy
+483 500
+484
+484 500
+485
+people  related_to  human
+485 500
+486
+walk  related_to  leg
+carry  related_to  have
+486 500
+487
+487 500
+488
+tree  related_to  forest
+488 500
+489
+child  is_a  person
+489 500
+490
+490 500
+491
+491 500
+492
+492 500
+493
+lady  is_a  woman
+crowd  antonym  group
+crowd  antonym  people
+crowd  antonym  group
+crowd  antonym  people
+crowd  related_to  group
+crowd  related_to  people
+493 500
+494
+bicycle  is_a  bike
+494 500
+495
+drive  distinct from  walk
+drive  distinct from  walk
+495 500
+496
+496 500
+497
+people  antonym  person
+people  antonym  person
+people  related_to  person
+497 500
+498
+498 500
+499
+woman  is_a  man
+499 500
+500
+500 500
+guardado 500
+501
+wear  related_to  damage
+501 600
+502
+father  is_a  man
+502 600
+503
+lizard  related_to  snake
+503 600
+504
+504 600
+505
+505 600
+506
+black  antonym  white
+black  antonym  white
+black  related_to  white
+buy  related_to  white
+color  related_to  white
+eye  related_to  white
+506 600
+507
+football  is_a  sport
+507 600
+508
+508 600
+509
+509 600
+510
+510 600
+511
+511 600
+512
+512 600
+513
+513 600
+514
+wear  related_to  watch
+514 600
+515
+515 600
+516
+516 600
+517
+shoe  related_to  old
+517 600
+518
+boy  is_a  man
+518 600
+519
+front  related_to  public
+519 600
+520
+old  antonym  young
+man  antonym  lady
+sit  antonym  stand
+old  antonym  young
+man  antonym  lady
+sit  antonym  stand
+old  related_to  young
+man  related_to  lady
+sit  related_to  stand
+bench  related_to  bus
+520 600
+521
+521 600
+522
+522 600
+523
+run  related_to  walk
+523 600
+524
+stadium  related_to  park
+524 600
+525
+slide  related_to  park
+slide  related_to  park
+525 600
+526
+dinner  related_to  eat
+526 600
+527
+jacket  related_to  winter
+527 600
+528
+play  related_to  have
+play  related_to  time
+toy  related_to  have
+528 600
+529
+apply  related_to  put
+529 600
+530
+530 600
+531
+531 600
+532
+husky  is_a  dog
+532 600
+533
+bicycle  related_to  motorcycle
+533 600
+534
+lady  is_a  woman
+534 600
+535
+puppy  is_a  dog
+535 600
+536
+536 600
+537
+537 600
+538
+walk  antonym  sit
+walk  antonym  sit
+538 600
+539
+539 600
+540
+540 600
+541
+blond  related_to  brown
+black  related_to  brown
+back  related_to  hair
+541 600
+542
+542 600
+543
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+543 600
+544
+544 600
+545
+545 600
+546
+surgeon  is_a  doctor
+546 600
+547
+547 600
+548
+548 600
+549
+front  related_to  building
+549 600
+550
+550 600
+551
+manhole  related_to  man
+551 600
+552
+552 600
+553
+dark  antonym  bright
+dark /home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+ antonym  bright
+dark  related_to  bright
+suit  related_to  suite
+553 600
+554
+554 600
+555
+husky  is_a  dog
+555 600
+556
+556 600
+557
+557 600
+558
+push  related_to  like
+stone  related_to  like
+bar  related_to  like
+cover  related_to  like
+558 600
+559
+559 600
+560
+try  used_for  do
+560 600
+561
+561 600
+562
+562 600
+563
+girl  is_a  kid
+563 600
+564
+564 600
+565
+woman  is_a  female
+565 600
+566
+man  antonym  girl
+man  antonym  girl
+man  related_to  group
+man  related_to  girl
+566 600
+567
+construction  related_to  work
+construction  related_to  work
+567 600
+568
+shot  related_to  shoot
+568 600
+569
+researcher  related_to  research
+videotape  related_to  record
+569 600
+570
+570 600
+571
+571 600
+572
+mother  related_to  baby
+mother  related_to  girl
+572 600
+573
+child  related_to  people
+room  related_to  people
+573 600
+574
+music  antonym  quiet
+music  antonym  quiet
+574 600
+575
+sock  related_to  dress
+loafer  related_to  dress
+walk  related_to  go
+walk  related_to  go
+stone  related_to  go
+575 600
+576
+horse  related_to  people
+576 600
+577
+577 600
+578
+578 600
+579
+579 600
+580
+580 600
+581
+photograph  is_a  picture
+581 600
+582
+walk  antonym  sit
+walk  antonym  sit
+coat  related_to  shirt
+582 600
+583
+583 600
+584
+584 600
+585
+sing  related_to  singe
+585 600
+586
+586 600
+587
+587 600
+588
+588 600
+589
+589 600
+590
+right  antonym  left
+right  antonym  left
+right  related_to  left
+590 600
+591
+purse  is_a  bag
+man  antonym  lady
+man  antonym  lady
+man  related_to  lady
+591 600
+592
+poodle  is_a  dog
+592 600
+593
+593 600
+594
+drive  related_to  turn
+594 600
+595
+595 600
+596
+get  related_to  take
+596 600
+597
+597 600
+598
+man  antonym  people
+man  antonym  people
+man  related_to  people
+girl  related_to  people
+598 600
+599
+599 600
+600
+swing  is_a  blow
+600 600
+guardado 600
+601
+601 700
+602
+602 700
+603
+603 700
+604
+604 700
+605
+605 700
+606
+606 700
+607
+607 700
+608
+608 700
+609
+play  is_a  show
+609 700
+610
+610 700
+611
+shirt  related_to  wear
+611 700
+612
+612 700
+613
+613 700
+614
+course  related_to  stage
+crowd  related_to  stage
+614 700
+615
+ball  related_to  play
+615 700
+616
+van  related_to  vehicle
+616 700
+617
+617 700
+618
+618 700
+619
+slip  related_to  wet
+619 700
+620
+water  related_to  river
+620 700
+621
+build  antonym  tear
+build  antonym  tear
+621 700
+622
+622 700
+623
+623 700
+624
+624 700
+625
+person  antonym  people
+person  antonym  people
+person  related_to  people
+team  related_to  people
+member  related_to  people
+625 700
+626
+626 700
+627
+pedestrian  related_to  walk
+627 700
+628
+628 700
+629
+629 700
+630
+630 700
+631
+631 700
+632
+632 700
+633
+633 700
+634
+634 700
+635
+human  related_to  people
+635 700
+636
+636 700
+637
+637 700
+638
+group  related_to  people
+grass  related_to  outside
+638 700
+639
+639 700
+640
+640 700
+641
+coat  related_to  outdoors
+641 700
+642
+642 700
+643
+643 700
+644
+woman  is_a  person
+644 700
+645
+645 700
+646
+baby  is_a  child
+room  related_to  indoor
+646 700
+647
+647 700
+648
+base  related_to  home
+648 700
+649
+649 700
+650
+boy  related_to  person
+650 700
+651
+651 700
+652
+652 700
+653
+653 700
+654
+see  related_to  do
+654 700
+655
+655 700
+656
+gather  related_to  group
+656 700
+657
+pull  related_to  row
+657 700
+658
+658 700
+659
+man  related_to  people
+659 700
+660
+660 700
+661
+661 700
+662
+number  related_to  person
+662 700
+663
+663 700
+664
+woman  is_a  man
+soldier  related_to  gun
+bag  related_to  load
+664 700
+665
+665 700
+666
+lady  used_for  gentleman
+666 700
+667
+man  related_to  people
+middle  related_to  people
+man  related_to  people
+stage  related_to  people
+667 700
+668
+668 700
+669
+ground  related_to  stand
+by  related_to  stand
+669 700
+670
+670 700
+671
+671 700
+672
+bag  related_to  carry
+672 700
+673
+man  antonym  people
+man  antonym  people
+group  related_to  people
+man  related_to  people
+fight  related_to  people
+bar  related_to  people
+city  related_to  people
+673 700
+674
+674 700
+675
+man  related_to  people
+675 700
+676
+mountain  related_to  snow
+676 700
+677
+677 700
+678
+678 700
+679
+679 700
+680
+680 700
+681
+dog  related_to  animal
+681 700
+682
+682 700
+683
+683 700
+684
+684 700
+685
+boy  related_to  kid
+685 700
+686
+scene  related_to  play
+show  related_to  play
+686 700
+687
+sport  related_to  game
+687 700
+688
+688 700
+689
+dress  antonym  man
+dress  antonym  man
+dress  related_to  wear
+city  related_to  new
+street  related_to  car
+689 700
+690
+690 700
+691
+691 700
+692
+692 700
+693
+693 700
+694
+694 700
+695
+shopping  related_to  shop
+695 700
+696
+boy  related_to  kid
+eat  related_to  restaurant
+696 700
+697
+697 700
+698
+man  is_a  person
+suit  related_to  business
+698 700
+699
+699 700
+700
+700 700
+guardado 700
+701
+dog  related_to  friend
+701 800
+702
+702 800
+703
+703 800
+704
+704 800
+705
+705 800
+706
+706 800
+707
+cellphone  is_a  phone
+number  related_to  look
+number  related_to  person
+number  related_to  look
+group  related_to  person
+707 800
+708
+708 800
+709
+gray  antonym  black
+gray  antonym  black
+gray  related_to  black
+709 800
+710
+710 800
+711
+711 800
+712
+hockey  is_a  game
+712 800
+713
+713 800
+714
+714 800
+715
+woman  is_a  man
+715 800
+716
+716 800
+717
+717 800
+718
+haired  related_to  hair
+718 800
+719
+719 800
+720
+shirt  related_to  clothe
+720 800
+721
+face  related_to  hair
+721 800
+722
+722 800
+723
+723 800
+724
+dancer  related_to  dance
+724 800
+725
+sedan  is_a  car
+725 800
+726
+726 800
+727
+727 800
+728
+728 800
+729
+729 800
+730
+refuse  distinct from  take
+refuse  distinct from  take
+sport  related_to  play
+sport  related_to  play
+blue  related_to  other
+730 800
+731
+man  distinct from  girl
+man  distinct from  girl
+male  related_to  man
+hand  related_to  man
+731 800
+732
+bus  related_to  travel
+732 800
+733
+733 800
+734
+carry  related_to  tote
+734 800
+735
+fall  related_to  go
+735 800
+736
+man  related_to  people
+talk  related_to  people
+middle  related_to  people
+man  related_to  people
+stage  related_to  people
+stage  related_to  room
+736 800
+737
+737 800
+738
+group  related_to  people
+738 800
+739
+picture  related_to  portrait
+739 800
+740
+740 800
+741
+741 800
+742
+742 800
+743
+move  related_to  walk
+743 800
+744
+744 800
+745
+745 800
+746
+746 800
+747
+slope  related_to  skiing
+747 800
+748
+748 800
+749
+man  is_a  person
+749 800
+750
+750 800
+751
+stand  is_a  table
+751 800
+752
+752 800
+753
+donkey  is_a  horse
+rider  related_to  ride
+753 800
+754
+754 800
+755
+755 800
+756
+756 800
+757
+757 800
+758
+758 800
+759
+759 800
+760
+760 800
+761
+761 800
+762
+762 800
+763
+walk  antonym  sit
+walk  antonym  sit
+set  related_to  sit
+763 800
+764
+man  is_a  person
+hold  related_to  have
+764 800
+765
+765 800
+766
+766 800
+767
+street  related_to  walk
+767 800
+768
+rapid  related_to  river
+768 800
+769
+769 800
+770
+770 800
+771
+sun  related_to  newspaper
+771 800
+772
+772 800
+773
+woman  is_a  man
+cook  related_to  food
+kitchen  related_to  food
+773 800
+774
+white  antonym  black
+white  antonym  black
+dark  related_to  black
+horse  related_to  black
+774 800
+775
+775 800
+776
+776 800
+777
+woman  related_to  wife
+marry  related_to  wife
+777 800
+778
+778 800
+779
+779 800
+780
+780 800
+781
+781 800
+782
+man  related_to  people
+street  related_to  people
+782 800
+783
+783 800
+784
+metal  related_to  sword
+784 800
+785
+785 800
+786
+science  related_to  scientific
+science  related_to  study
+786 800
+787
+787 800
+788
+788 800
+789
+789 800
+790
+790 800
+791
+791 800
+792
+792 800
+793
+man  related_to  people
+793 800
+794
+woman  is_a  man
+794 800
+795
+795 800
+796
+796 800
+797
+797 800
+798
+stage  related_to  people
+concert  related_to  people
+798 800
+799
+799 800
+800
+dog  related_to  animal
+800 800
+guardado 800
+801
+fly  antonym  land
+fly  antonym  land
+fly  related_to  try
+801 900
+802
+802 900
+803
+man  antonym  people
+man  antonym  people
+man  related_to  people
+snow  related_to  people
+803 900
+804
+804 900
+805
+805 900
+806
+806 900
+807
+807 900
+808
+water  related_to  life
+808 900
+809
+man  related_to  piece
+809 900
+810
+crowd  related_to  drive
+tent  related_to  car
+810 900
+811
+811 900
+812
+microscope  related_to  scientific
+812 900
+813
+bicycle  is_a  bike
+813 900
+814
+814 900
+815
+815 900
+816
+816 900
+817
+man  is_a  person
+817 900
+818
+818 900
+819
+corn  related_to  farmer
+buy  related_to  sell
+corn  related_to  farmer
+819 900
+820
+820 900
+821
+boy  is_a  child
+821 900
+822
+woman  is_a  man
+822 900
+823
+823 900
+824
+824 900
+825
+stand  related_to  foot
+825 900
+826
+826 900
+827
+wall  related_to  drive
+girl  related_to  daughter
+827 900
+828/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+
+powder  related_to  make
+828 900
+829
+ocean  related_to  beach
+829 900
+830
+830 900
+831
+boy  is_a  child
+bicycle  is_a  bike
+831 900
+832
+832 900
+833
+833 900
+834
+space  related_to  inside
+834 900
+835
+835 900
+836
+painting  related_to  artwork
+836 900
+837
+837 900
+838
+electronics  related_to  electronic
+838 900
+839
+839 900
+840
+girlfriend  is_a  woman
+840 900
+841
+841 900
+842
+club  used_for  dance
+watch  related_to  guard
+wear  related_to  guard
+842 900
+843
+843 900
+844
+844 900
+845
+woman  is_a  man
+845 900
+846
+846 900
+847
+847 900
+848
+848 900
+849
+849 900
+850
+stare  is_a  look
+850 900
+851
+851 900
+852
+employee  is_a  worker
+restaurant  related_to  food
+prepare  related_to  make
+sandwich  related_to  food
+852 900
+853
+view  is_a  look
+853 900
+854
+musician  related_to  person
+short  related_to  person
+854 900
+855
+stump  related_to  cut
+855 900
+856
+856 900
+857
+857 900
+858
+858 900
+859
+black  antonym  white
+red  antonym  blue
+black  antonym  white
+red  antonym  blue
+black  related_to  white
+859 900
+860
+860 900
+861
+861 900
+862
+862 900
+863
+leave  related_to  tree
+863 900
+864
+864 900
+865
+girl  is_a  woman
+865 900
+866
+866 900
+867
+concert  is_a  music
+867 900
+868
+868 900
+869
+869 900
+870
+woman  is_a  man
+870 900
+871
+871 900
+872
+872 900
+873
+873 900
+874
+boy  related_to  kid
+eat  related_to  meal
+874 900
+875
+875 900
+876
+peek  is_a  look
+876 900
+877
+877 900
+878
+878 900
+879
+879 900
+880
+guy  is_a  man
+cut  related_to  snip
+880 900
+881
+881 900
+882
+stand  antonym  sit
+stand  antonym  sit
+882 900
+883
+play  related_to  outside
+883 900
+884
+884 900
+885
+track  related_to  race
+885 900
+886
+886 900
+887
+boy  related_to  child
+play  related_to  child
+toy  related_to  child
+game  related_to  child
+887 900
+888
+woman  is_a  man
+888 900
+889
+889 900
+890
+890 900
+891
+891 900
+892
+put  antonym  get
+put  antonym  get
+sock  related_to  dress
+892 900
+893
+man  antonym  people
+man  antonym  people
+man  related_to  people
+893 900
+894
+894 900
+895
+895 900
+896
+woman  is_a  man
+newborn  is_a  baby
+896 900
+897
+897 900
+898
+sit  related_to  stand
+898 900
+899
+899 900
+900
+yellow  distinct from  red
+yellow  distinct from  red
+red  related_to  yellow
+red  related_to  yellow
+fire  related_to  yellow
+900 900
+guardado 900
+901
+901 1000
+902
+shirt  related_to  wear
+shirt  related_to  clothing
+pink  related_to  clothing
+shirt  related_to  wear
+shirt  related_to  clothing
+902 1000
+903
+903 1000
+904
+904 1000
+905
+line  related_to  track
+905 1000
+906
+look  related_to  peer
+906 1000
+907
+907 1000
+908
+old  related_to  long
+old  related_to  time
+908 1000
+909
+909 1000
+910
+mountain  related_to  rock
+910 1000
+911
+911 1000
+912
+stand  related_to  hold
+912 1000
+913
+913 1000
+914
+914 1000
+915
+915 1000
+916
+916 1000
+917
+917 1000
+918
+918 1000
+919
+race  related_to  people
+919 1000
+920
+son  is_a  child
+920 1000
+921
+921 1000
+922
+922 1000
+923
+923 1000
+924
+924 1000
+925
+street  related_to  look
+925 1000
+926
+boy  is_a  man
+walk  antonym  ride
+walk  antonym  ride
+926 1000
+927
+walk  antonym  sit
+walk  antonym  sit
+927 1000
+928
+928 1000
+929
+929 1000
+930
+walk  related_to  go
+930 1000
+931
+woman  is_a  man
+unfinished  antonym  finished
+unfinished  antonym  finished
+unfinished  related_to  finished
+931 1000
+932
+932 1000
+933
+rest  related_to  people
+bench  related_to  people
+bench  related_to  sit
+933 1000
+934
+school  is_a  building
+walk  related_to  take
+934 1000
+935
+935 1000
+936
+936 1000
+937
+sidewalk  related_to  road
+937 1000
+938
+938 1000
+939
+man  antonym  girl
+man  antonym  girl
+man  related_to  girl
+939 1000
+940
+old  related_to  geriatric
+940 1000
+941
+street  related_to  people
+941 1000
+942
+942 1000
+943
+943 1000
+944
+944 1000
+945
+field  related_to  practice
+ball  related_to  game
+945 1000
+946
+946 1000
+947
+947 1000
+948
+948 1000
+949
+people  related_to  place
+949 1000
+950
+today  is_a  day
+950 1000
+951
+man  is_a  person
+cement  related_to  water
+sea  related_to  water
+951 1000
+952
+man  related_to  fire
+952 1000
+953
+man  antonym  lady
+man  antonym  lady
+man  related_to  lady
+953 1000
+954
+tackle  related_to  play
+member  related_to  people
+team  related_to  people
+954 1000
+955
+955 1000
+956
+956 1000
+957
+957 1000
+958
+object  is_a  thing
+958 1000
+959
+woman  is_a  man
+959 1000
+960
+construction  related_to  work
+construction  related_to  work
+rain  related_to  outside
+960 1000
+961
+961 1000
+962
+962 1000
+963
+963 1000
+964
+964 1000
+965
+965 1000
+966
+966 1000
+967
+man  is_a  person
+967 1000
+968
+968 1000
+969
+969 1000
+970
+970 1000
+971
+note  related_to  list
+note  related_to  list
+971 1000
+972
+put  antonym  take
+put  antonym  take
+put  related_to  take
+972 1000
+973
+girl  related_to  human
+sit  related_to  sitting
+foot  related_to  human
+973 1000
+974
+lady  is_a  woman
+dress  related_to  wear
+974 1000
+975
+girl  is_a  child
+cry  related_to  upset
+975 1000
+976
+976 1000
+977
+977 1000
+978
+978 1000
+979
+979 1000
+980
+980 1000
+981
+981 1000
+982
+cloud  related_to  ball
+park  related_to  play
+field  related_to  play
+982 1000
+983
+man  related_to  people
+costume  related_to  people
+983 1000
+984
+984 1000
+985
+dog  related_to  animal
+kitten  related_to  animal
+985 1000
+986
+woman  is_a  man
+986 1000
+987
+987 1000
+988
+race  related_to  run
+988 1000
+989
+989 1000
+990
+orange  is_a  color
+990 1000
+991
+991 1000
+992
+boy  related_to  child
+play  related_to  child
+play  related_to  outside
+992 1000
+993
+child  is_a  person
+993 1000
+994
+male  related_to  man
+994 1000
+995
+outdoors  is_a  outside
+995 1000
+996
+996 1000
+997
+997 1000
+998
+paper  related_to  new
+998 1000
+999
+999 1000
+1000
+crowd  antonym  person
+crowd  antonym  person
+crowd  related_to  person
+1000 1000
+guardado 1000
+1001
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+dog  related_to  fur
+1001 1100
+1002
+1002 1100
+1003
+1003 1100
+1004
+1004 1100
+1005
+1005 1100
+1006
+run  related_to  compete
+1006 1100
+1007
+guy  is_a  man
+1007 1100
+1008
+child  related_to  man
+1008 1100
+1009
+backpack  related_to  carry
+1009 1100
+1010
+1010 1100
+1011
+1011 1100
+1012
+1012 1100
+1013
+dead  related_to  play
+1013 1100
+1014
+1014 1100
+1015
+1015 1100
+1016
+building  related_to  city
+1016 1100
+1017
+man  is_a  male
+1017 1100
+1018
+1018 1100
+1019
+black  is_a  man
+cyclist  related_to  bicycle
+1019 1100
+1020
+lady  is_a  woman
+1020 1100
+1021
+1021 1100
+1022
+1022 1100
+1023
+1023 1100
+1024
+family  is_a  people
+1024 1100
+1025
+1025 1100
+1026
+gentleman  is_a  man
+washer  related_to  wash
+1026 1100
+1027
+ride  antonym  walk
+ride  antonym  walk
+1027 1100
+1028
+1028 1100
+1029
+crowd  antonym  people
+crowd  antonym  people
+crowd  related_to  group
+crowd  related_to  people
+1029 1100
+1030
+game  is_a  play
+1030 1100
+1031
+1031 1100
+1032
+1032 1100
+1033
+1033 1100
+1034
+1034 1100
+1035
+1035 1100
+1036
+1036 1100
+1037
+1037 1100
+1038
+old  antonym  young
+old  antonym  young
+old  related_to  young
+1038 1100
+1039
+1039 1100
+1040
+air  antonym  land
+air  antonym  land
+1040 1100
+1041
+1041 1100
+1042
+1042 1100
+1043
+1043 1100
+1044
+party  is_a  person
+ball  related_to  beach
+1044 1100
+1045
+1045 1100
+1046
+street  related_to  outside
+1046 1100
+1047
+1047 1100
+1048
+cellphone  is_a  phone
+1048 1100
+1049
+ground  related_to  outdoors
+1049 1100
+1050
+1050 1100
+1051
+1051 1100
+1052
+man  related_to  people
+1052 1100
+1053
+liquid  related_to  drink
+1053 1100
+1054
+1054 1100
+1055
+1055 1100
+1056
+camera  related_to  room
+1056 1100
+1057
+people  antonym  person
+people  antonym  person
+boy  related_to  person
+group  related_to  person
+people  related_to  person
+1057 1100
+1058
+lane  is_a  street
+city  antonym  country
+city  antonym  country
+city  related_to  country
+1058 1100
+1059
+1059 1100
+1060
+play  is_a  show
+game  is_a  play
+1060 1100
+1061
+1061 1100
+1062
+1062 1100
+1063
+1063 1100
+1064
+1064 1100
+1065
+street  related_to  walk
+1065 1100
+1066
+1066 1100
+1067
+1067 1100
+1068
+1068 1100
+1069
+1069 1100
+1070
+1070 1100
+1071
+smile  related_to  look
+1071 1100
+1072
+1072 1100
+1073
+game  is_a  play
+field  related_to  player
+1073 1100
+1074
+dance  related_to  stage
+1074 1100
+1075
+1075 1100
+1076
+1076 1100
+1077
+1077 1100
+1078
+1078 1100
+1079
+girl  is_a  female
+1079 1100
+1080
+old  related_to  young
+child  related_to  young
+1080 1100
+1081
+1081 1100
+1082
+stage  related_to  perform
+1082 1100
+1083
+hand  related_to  man
+1083 1100
+1084
+fish  related_to  dinner
+1084 1100
+1085
+1085 1100
+1086
+1086 1100
+1087
+blue  is_a  color
+1087 1100
+1088
+1088 1100
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+1089
+1089 1100
+1090
+1090 1100
+1091
+singer  related_to  person
+1091 1100
+1092
+1092 1100
+1093
+1093 1100
+1094
+1094 1100
+1095
+1095 1100
+1096
+girl  is_a  kid
+1096 1100
+1097
+1097 1100
+1098
+prepare  related_to  make
+sandwich  related_to  dinner
+1098 1100
+1099
+1099 1100
+1100
+1100 1100
+guardado 1100
+1101
+counter  is_a  table
+food  related_to  dinner
+1101 1200
+1102
+1102 1200
+1103
+1103 1200
+1104
+dog  related_to  animal
+1104 1200
+1105
+1105 1200
+1106
+field  related_to  grass
+1106 1200
+1107
+1107 1200
+1108
+table  related_to  eat
+1108 1200
+1109
+1109 1200
+1110
+1110 1200
+1111
+child  related_to  old
+paper  related_to  pen
+1111 1200
+1112
+greyhound  is_a  dog
+1112 1200
+1113
+1113 1200
+1114
+1114 1200
+1115
+1115 1200
+1116
+man  related_to  people
+child  related_to  people
+1116 1200
+1117
+paper  used_for  origami
+1117 1200
+1118
+1118 1200
+1119
+sit  related_to  stand
+1119 1200
+1120
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+1120 1200
+1121
+1121 1200
+1122
+1122 1200
+1123
+1123 1200
+1124
+set  related_to  sit
+1124 1200
+1125
+1125 1200
+1126
+climb  related_to  go
+climb  related_to  stair
+1126 1200
+1127
+1127 1200
+1128
+drink  antonym  thirsty
+drink  antonym  thirsty
+drink  related_to  thirsty
+1128 1200
+1129
+baseball  is_a  game
+park  related_to  play
+1129 1200
+1130
+ball  related_to  soccer
+1130 1200
+1131
+girl  is_a  kid
+1131 1200
+1132
+1132 1200
+1133
+1133 1200
+1134
+1134 1200
+1135
+stack  is_a  pile
+1135 1200
+1136
+hiker  related_to  hike
+climb  related_to  hike
+1136 1200
+1137
+people  antonym  person
+alone  distinct from  together
+people  antonym  person
+alone  distinct from  together
+people  related_to  person
+1137 1200
+1138
+dog  related_to  animal
+1138 1200
+1139
+1139 1200
+1140
+man  antonym  people
+man  antonym  people
+stage  related_to  people
+stage  related_to  front
+man  related_to  people
+1140 1200
+1141
+male  related_to  man
+crowd  related_to  football
+crowd  related_to  game
+1141 1200
+1142
+1142 1200
+1143
+1143 1200
+1144
+1144 1200
+1145
+1145 1200
+1146
+blue  related_to  eye
+look  related_to  eye
+1146 1200
+1147
+1147 1200
+1148
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+1148 1200
+1149
+1149 1200
+1150
+1150 1200
+1151
+girl  is_a  kid
+1151 1200
+1152
+toy  related_to  object
+1152 1200
+1153
+1153 1200
+1154
+1154 1200
+1155
+lady  is_a  woman
+1155 1200
+1156
+boy  related_to  kid
+1156 1200
+1157
+loose  related_to  together
+ball  related_to  basketball
+1157 1200
+1158
+1158 1200
+1159
+1159 1200
+1160
+child  antonym  adult
+child  antonym  adult
+child  related_to  adult
+1160 1200
+1161
+street  related_to  walk
+1161 1200
+1162
+man  antonym  people
+man  antonym  people
+man  related_to  people
+dance  related_to  people
+dance  related_to  move
+1162 1200
+1163
+1163 1200
+1164
+1164 1200
+1165
+1165 1200
+1166
+1166 1200
+1167
+1167 1200
+1168
+brick  related_to  hit
+1168 1200
+1169
+1169 1200
+1170
+baby  is_a  child
+1170 1200
+1171
+walk  related_to  go
+1171 1200
+1172
+1172 1200
+1173
+1173 1200
+1174
+red  antonym  blue
+red  antonym  blue
+sweatshirt  related_to  shirt
+1174 1200
+1175
+1175 1200
+1176
+1176 1200
+1177
+1177 1200
+1178
+game  is_a  play
+man  similar_to  woman
+man  similar_to  woman
+1178 1200
+1179
+1179 1200
+1180
+1180 1200
+1181
+dance  related_to  dancer
+dance  related_to  move
+1181 1200
+1182
+ball  related_to  throw
+1182 1200
+1183
+1183 1200
+1184
+1184 1200
+1185
+laundry  related_to  wash
+1185 1200
+1186
+boy  related_to  child
+pool  related_to  water
+1186 1200
+1187
+1187 1200
+1188
+1188 1200
+1189
+1189 1200
+1190
+bench  related_to  people
+1190 1200
+1191
+bright  antonym  dark
+bright  antonym  dark
+bright  related_to  dark
+1191 1200
+1192
+1192 1200
+1193
+1193 1200
+1194
+show  related_to  display
+tree  related_to  display
+1194 1200
+1195
+1195 1200
+1196
+1196 1200
+1197
+skirt  related_to  wear
+1197 1200
+1198
+1198 1200
+1199
+child  related_to  people
+1199 1200
+1200
+pitbull  is_a  dog
+1200 1200
+guardado 1200
+1201
+table  related_to  meal
+1201 1300
+1202
+people  related_to  folk
+1202 1300
+1203
+ocean  antonym  desert
+ocean  antonym  desert
+ocean  related_to  desert
+1203 1300
+1204
+1204 1300
+1205
+1205 1300
+1206
+1206 1300
+1207
+band  related_to  people
+1207 1300
+1208
+woman  is_a  man
+1208 1300
+1209
+blue  related_to  woman
+1209 1300
+1210
+devise  related_to  device
+car  related_to  device
+1210 1300
+1211
+girl  related_to  people
+1211 1300
+1212
+1212 1300
+1213
+1213 1300
+1214
+1214 1300
+1215
+outdoors  is_a  outside
+1215 1300
+1216
+throw  antonym  catch
+throw  antonym  catch
+1216 1300
+1217
+gentleman  is_a  man
+1217 1300
+1218
+hooded  related_to  wear
+1218 1300
+1219
+1219 1300
+1220
+1220 1300
+1221
+transport  related_to  travel
+road  related_to  travel
+1221 1300
+1222
+1222 1300
+1223
+1223 1300
+1224
+1224 1300
+1225
+1225 1300
+1226
+boy  related_to  person
+head  related_to  person
+head  related_to  person
+1226 1300
+1227
+1227 1300
+1228
+1228 1300
+1229
+boy  related_to  child
+girl  related_to  child
+1229 1300
+1230
+1230 1300
+1231
+1231 1300
+1232
+1232 1300
+1233
+bowling  related_to  bowl
+1233 1300
+1234
+father  is_a  man
+1234 1300
+1235
+1235 1300
+1236
+1236 1300
+1237
+woman  is_a  person
+1237 1300
+1238
+1238 1300
+1239
+classwork  related_to  work
+1239 1300
+1240
+girl  antonym  boy
+talk  antonym  yell
+girl  antonym  boy
+talk  antonym  yell
+man  related_to  boy
+blue  related_to  boy
+girl  related_to  boy
+1240 1300
+1241
+shopper  related_to  person
+shopper  related_to  shop
+buy  related_to  shop
+buy  related_to  store
+cat  related_to  pet
+1241 1300
+1242
+woman  is_a  man
+injured  related_to  injure
+1242 1300
+1243
+1243 1300
+1244
+1244 1300
+1245
+singer  related_to  singe
+1245 1300
+1246
+1246 1300
+1247
+woman  is_a  female
+1247 1300
+1248
+1248 1300
+1249
+1249 1300
+1250
+1250 1300
+1251
+1251 1300
+1252
+1252 1300
+1253
+course  related_to  race
+1253 1300
+1254
+1254 1300
+1255
+eye  related_to  top
+1255 1300
+1256
+1256 1300
+1257
+1257 1300
+1258
+1258 1300
+1259
+board  related_to  item
+1259 1300
+1260
+1260 1300
+1261
+1261 1300
+1262
+1262 1300
+1263
+1263 1300
+1264
+1264 1300
+1265
+1265 1300
+1266
+1266 1300
+1267
+1267 1300
+1268
+woman  is_a  person
+water  is_a  liquid
+1268 1300
+1269
+1269 1300
+1270
+1270 1300
+1271
+1271 1300
+1272
+man  is_a  male
+1272 1300
+1273
+present  related_to  birthday
+1273 1300
+1274
+1274 1300
+1275
+bass  related_to  music
+1275 1300
+1276
+1276 1300
+1277
+woman  is_a  person
+1277 1300
+1278
+water  related_to  inside
+1278 1300
+1279
+1279 1300
+1280
+1280 1300
+1281
+1281 1300
+1282
+blue  antonym  green
+blue  antonym  green
+blue  related_to  green
+1282 1300
+1283
+1283 1300
+1284
+bicycle  is_a  bike
+ride  related_to  do
+fly  related_to  do
+1284 1300
+1285
+1285 1300
+1286
+dance  related_to  people
+crowd  related_to  group
+crowd  related_to  people
+1286 1300
+1287
+cat  antonym  dog
+cat  antonym  dog
+cat  related_to  dog
+1287 1300
+1288
+schoolgirl  is_a  girl
+1288 1300
+1289
+1289 1300
+1290
+1290 1300
+1291
+doctor  related_to  professional
+1291 1300
+1292
+1292 1300
+1293
+1293 1300
+1294
+1294 1300
+1295
+1295 1300
+1296
+1296 1300
+1297
+1297 1300
+1298
+lady  is_a  woman
+1298 1300
+1299
+rain  distinct from  sun
+rain  distinct from  sun
+1299 1300
+1300
+lilac  is_a  flower
+1300 1300
+guardado 1300
+1301
+1301 1400
+1302
+hand  related_to  hold
+1302 1400
+1303
+1303 1400
+1304
+1304 1400
+1305
+mud  is_a  river
+1305 1400
+1306
+1306 1400
+1307
+1307 1400
+1308
+1308 1400
+1309
+1309 1400
+1310
+1310 1400
+1311
+wife  is_a  woman
+son  is_a  child
+man  antonym  husband
+man  antonym  husband
+man  related_to  husband
+1311 1400
+1312
+woman  is_a  man
+1312 1400
+1313
+tackle  related_to  play
+member  related_to  people
+team  related_to  people
+1313 1400
+1314
+1314 1400
+1315
+city  related_to  urban
+city  related_to  location
+1315 1400
+1316
+1316 1400
+1317
+horseman  related_to  horse
+ride  related_to  horse
+1317 1400
+1318
+1318 1400
+1319
+terrier  is_a  dog
+large  antonym  small
+large  antonym  small
+large  related_to  small
+1319 1400
+1320
+1320 1400
+1321
+1321 1400
+1322
+ball  related_to  play
+ball  related_to  game
+1322 1400
+1323
+1323 1400
+1324
+pot  related_to  stand
+1324 1400
+1325
+hold  related_to  hand
+1325 1400
+1326
+1326 1400
+1327
+1327 1400
+1328
+play  related_to  kid
+1328 1400
+1329
+party  used_for  dancing
+1329 1400
+1330
+colored  related_to  color
+eye  related_to  light
+eye  related_to  color
+colored  related_to  color
+1330 1400
+1331
+man  is_a  person
+stand  related_to  hold
+town  related_to  urban
+sign  related_to  information
+1331 1400
+1332
+have  related_to  /home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+depict
+1332 1400
+1333
+1333 1400
+1334
+puck  related_to  stick
+1334 1400
+1335
+1335 1400
+1336
+1336 1400
+1337
+1337 1400
+1338
+1338 1400
+1339
+girl  related_to  human
+1339 1400
+1340
+1340 1400
+1341
+1341 1400
+1342
+1342 1400
+1343
+1343 1400
+1344
+lunch  is_a  meal
+prepare  related_to  make
+1344 1400
+1345
+play  related_to  yard
+1345 1400
+1346
+1346 1400
+1347
+1347 1400
+1348
+child  related_to  place
+1348 1400
+1349
+1349 1400
+1350
+1350 1400
+1351
+1351 1400
+1352
+desert  related_to  just
+1352 1400
+1353
+1353 1400
+1354
+girl  antonym  boy
+girl  antonym  boy
+girl  related_to  boy
+1354 1400
+1355
+wear  related_to  prevent
+1355 1400
+1356
+1356 1400
+1357
+1357 1400
+1358
+1358 1400
+1359
+1359 1400
+1360
+1360 1400
+1361
+1361 1400
+1362
+station  related_to  home
+1362 1400
+1363
+woman  is_a  man
+1363 1400
+1364
+jog  related_to  jogging
+1364 1400
+1365
+1365 1400
+1366
+1366 1400
+1367
+1367 1400
+1368
+1368 1400
+1369
+1369 1400
+1370
+ball  related_to  air
+1370 1400
+1371
+1371 1400
+1372
+1372 1400
+1373
+hand  related_to  wave
+1373 1400
+1374
+1374 1400
+1375
+puppy  is_a  dog
+black  related_to  red
+1375 1400
+1376
+toddler  is_a  child
+1376 1400
+1377
+convertible  related_to  car
+1377 1400
+1378
+1378 1400
+1379
+man  related_to  old
+1379 1400
+1380
+1380 1400
+1381
+1381 1400
+1382
+mouth  related_to  eat
+1382 1400
+1383
+1383 1400
+1384
+1384 1400
+1385
+1385 1400
+1386
+woman  is_a  man
+crowd  antonym  people
+crowd  antonym  people
+dance  related_to  people
+city  related_to  people
+street  related_to  people
+crowd  related_to  people
+1386 1400
+1387
+photograph  is_a  picture
+tree  related_to  nature
+1387 1400
+1388
+1388 1400
+1389
+1389 1400
+1390
+1390 1400
+1391
+1391 1400
+1392
+1392 1400
+1393
+table  related_to  sit
+1393 1400
+1394
+guy  is_a  man
+ride  related_to  use
+1394 1400
+1395
+line  is_a  queue
+1395 1400
+1396
+1396 1400
+1397
+boy  related_to  kid
+1397 1400
+1398
+ball  related_to  play
+1398 1400
+1399
+1399 1400
+1400
+street  related_to  way
+1400 1400
+guardado 1400
+1401
+1401 1500
+1402
+1402 1500
+1403
+guy  is_a  man
+1403 1500
+1404
+boy  is_a  child
+mouth  related_to  eat
+stick  related_to  little
+chew  related_to  eat
+mouth  related_to  eat
+tooth  related_to  eat
+1404 1500
+1405
+department  related_to  shop
+1405 1500
+1406
+man  antonym  girl
+man  antonym  girl
+man  related_to  girl
+sand  related_to  small
+watch  related_to  small
+crowd  related_to  small
+1406 1500
+1407
+1407 1500
+1408
+1408 1500
+1409
+1409 1500
+1410
+gray  related_to  old
+1410 1500
+1411
+1411 1500
+1412
+1412 1500
+1413
+1413 1500
+1414
+1414 1500
+1415
+1415 1500
+1416
+1416 1500
+1417
+1417 1500
+1418
+1418 1500
+1419
+1419 1500
+1420
+1420 1500
+1421
+play  related_to  have
+1421 1500
+1422
+1422 1500
+1423
+party  is_a  event
+girl  related_to  female
+lady  related_to  female
+1423 1500
+1424
+man  is_a  person
+1424 1500
+1425
+1425 1500
+1426
+boy  antonym  girl
+boy  antonym  girl
+boy  related_to  girl
+1426 1500
+1427
+puck  related_to  stick
+1427 1500
+1428
+1428 1500
+1429
+1429 1500
+1430
+1430 1500
+1431
+1431 1500
+1432
+woman  is_a  female
+man  related_to  male
+1432 1500
+1433
+1433 1500
+1434
+1434 1500
+1435
+1435 1500
+1436
+1436 1500
+1437
+1437 1500
+1438
+dancer  is_a  performer
+1438 1500
+1439
+basketball  is_a  ball
+1439 1500
+1440
+1440 1500
+1441
+1441 1500
+1442
+1442 1500
+1443
+1443 1500
+1444
+1444 1500
+1445
+middle  related_to  dead
+1445 1500
+1446
+big  related_to  large
+stick  related_to  large
+1446 1500
+1447
+go  related_to  lose
+1447 1500
+1448
+dress  related_to  open
+1448 1500
+1449
+1449 1500
+1450
+woman  is_a  person
+1450 1500
+1451
+1451 1500
+1452
+snap  related_to  take
+1452 1500
+1453
+1453 1500
+1454
+1454 1500
+1455
+man  related_to  fire
+1455 1500
+1456
+1456 1500
+1457
+woman  is_a  person
+frail  related_to  old
+1457 1500
+1458
+1458 1500
+1459
+1459 1500
+1460
+1460 1500
+1461
+1461 1500
+1462
+1462 1500
+1463
+1463 1500
+1464
+1464 1500
+1465
+1465 1500
+1466
+woman  is_a  person
+1466 1500
+1467
+watch  related_to  wear
+watch  related_to  guard
+1467 1500
+1468
+1468 1500
+1469
+1469 1500
+1470
+1470 1500
+1471
+1471 1500
+1472
+cow  related_to  barn
+1472 1500
+1473
+1473 1500
+1474
+classroom  related_to  class
+1474 1500
+1475
+1475 1500
+1476
+cliff  related_to  mountain
+1476 1500
+1477
+man  is_a  person
+1477 1500
+1478
+cold  related_to  snow
+1478 1500
+1479
+1479 1500
+1480
+1480 1500
+1481
+1481 1500
+1482
+gentleman  is_a  man
+1482 1500
+1483
+1483 1500
+1484
+woman  is_a  adult
+1484 1500
+1485
+wall  related_to  large
+coat  related_to  large
+1485 1500
+1486
+1486 1500
+1487
+1487 1500
+1488
+1488 1500
+1489
+1489 1500
+1490
+1490 1500
+1491
+wear  related_to  ware
+shirt  related_to  arm
+1491 1500
+1492
+1492 1500
+1493
+bicycle  is_a  bike
+1493 1500
+1494
+friend  related_to  people
+race  related_to  people
+1494 1500
+1495
+1495 1500
+1496
+1496 1500
+1497
+market  related_to  sell
+market  related_to  product
+1497 1500
+1498
+1498 1500
+1499
+1499 1500
+1500
+volleyball  is_a  ball
+1500 1500
+guardado 1500
+1501
+1501 1600
+1502
+1502 1600
+1503
+1503 1600
+1504
+1504 1600
+1505
+1505 1600
+1506
+bicycle  is_a  bike
+man  antonym  people
+man  antonym  people
+group  related_to  people
+man  related_to  people
+1506 1600
+1507
+girl  related_to  child
+boy  related_to  child
+1507 1600
+1508
+1508 1600
+1509
+1509 1600
+1510
+1510 1600
+1511
+1511 1600
+1512
+1512 1600
+1513
+1513 1600
+1514
+sit  antonym  stand
+sit  antonym  stand
+sit  related_to  stand
+1514 1600
+1515
+1515 1600
+1516
+1516 1600
+1517
+newspaper  is_a  paper
+1517 1600
+1518
+black  related_to  color
+black  related_to  color
+black  related_to  color
+white  related_to  color
+colored  related_to  color
+1518 1600
+1519
+1519 1600
+1520
+1520 1600
+1521
+1521 1600
+1522
+female  related_to  woman
+boy  related_to  woman
+1522 1600
+1523
+truck  related_to  drive
+1523 1600
+1524
+work  related_to  building
+clean  related_to  spray
+1524 1600
+1525
+1525 1600
+1526
+slide  related_to  play
+slide  related_to  park
+1526 1600
+1527
+1527 1600
+1528
+1528 1600
+1529
+1529 1600
+1530
+1530 1600
+1531
+handlebar  related_to  vehicle
+1531 1600
+1532
+dance  related_to  happy
+1532 1600
+1533
+1533 1600
+1534
+swimming  related_to  water
+1534 1600
+1535
+1535 1600
+1536
+1536 1600
+1537
+1537 1600
+1538
+1538 1600
+1539
+man  is_a  male
+1539 1600
+1540
+1540 1600
+1541
+1541 1600
+1542
+1542 1600
+1543
+jacket  related_to  wear
+1543 1600
+1544
+1544 1600
+1545
+1545 1600
+1546
+man  related_to  people
+1546 1600
+1547
+dress  related_to  prepare
+front  related_to  field
+1547 1600
+1548
+1548 1600
+1549
+hand  related_to  other
+1549 1600
+1550
+hold  related_to  touch
+hand  related_to  touch
+hand  related_to  other
+1550 1600
+1551
+1551 1600
+1552
+1552 1600
+1553
+1553 1600
+1554
+man  related_to  people
+have  related_to  speak
+drink  related_to  people
+1554 1600
+1555
+1555 1600
+1556
+guitarist  related_to  guitar
+1556 1600
+1557
+1557 1600
+1558
+1558 1600
+1559
+1559 1600
+1560
+1560 1600
+1561
+1561 1600
+1562
+1562 1600
+1563
+1563 1600
+1564
+boy  antonym  girl
+boy  antonym  girl
+young  related_to  look
+boy  related_to  girl
+wear  related_to  ready
+1564 1600
+1565
+1565 1600
+1566
+gray  related_to  white
+1566 1600
+1567
+1567 1600
+1568
+1568 1600
+1569
+1569 1600
+1570
+1570 1600
+1571
+air  related_to  fresh
+1571 1600
+1572
+people  antonym  person
+people  antonym  person
+crowd  related_to  person
+people  related_to  person
+hot  related_to  person
+air  related_to  sky
+1572 1600
+1573
+1573 1600
+1574
+1574 1600
+1575
+bear  related_to  mother
+1575 1600
+1576
+1576 1600
+1577
+classwork  related_to  homework
+classroom  related_to  school
+1577 1600
+1578
+hound  is_a  dog
+1578 1600
+1579
+art  related_to  man
+art  related_to  man
+art  related_to  man
+art  related_to  man
+1579 1600
+1580
+1580 1600
+1581
+crowd  antonym  group
+crowd  antonym  people
+crowd  antonym  group
+crowd  antonym  people
+crowd  related_to  group
+crowd  related_to  people
+1581 1600
+1582
+red  antonym  blue
+red  antonym  blue
+1582 1600
+1583
+blue  is_a  color
+1583 1600
+1584
+1584 1600
+1585
+wash  related_to  dirt
+1585 1600
+1586
+ware  related_to  wear
+1586 1600
+1587
+away  related_to  run
+1587 1600
+1588
+shoot  related_to  shot
+1588 1600
+1589
+lady  is_a  woman
+1589 1600
+1590
+1590 1600
+1591
+1591 1600
+1592
+1592 1600
+1593
+1593 1600
+1594
+coat  related_to  clothe
+bar  related_to  have
+1594 1600
+1595
+girl  related_to  person
+1595 1600
+1596
+1596 1600
+1597
+1597 1600
+1598
+gray  related_to  old
+1598 1600
+1599
+1599 1600
+1600
+1600 1600
+guardado 1600
+1601
+1601 1700
+1602
+son  is_a  child
+slide  related_to  play
+1602 1700
+1603
+1603 1700
+1604
+white /home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+ similar_to  good
+1604 1700
+1605
+shirt  related_to  wear
+1605 1700
+1606
+1606 1700
+1607
+1607 1700
+1608
+woman  is_a  person
+1608 1700
+1609
+1609 1700
+1610
+1610 1700
+1611
+1611 1700
+1612
+ball  related_to  play
+1612 1700
+1613
+1613 1700
+1614
+1614 1700
+1615
+student  related_to  school
+1615 1700
+1616
+1616 1700
+1617
+1617 1700
+1618
+1618 1700
+1619
+1619 1700
+1620
+woman  is_a  man
+1620 1700
+1621
+1621 1700
+1622
+1622 1700
+1623
+1623 1700
+1624
+track  is_a  road
+dust  related_to  dirt
+1624 1700
+1625
+walk  antonym  sit
+walk  antonym  sit
+park  related_to  sit
+1625 1700
+1626
+1626 1700
+1627
+surfer  related_to  surf
+wave  related_to  surf
+surfer  related_to  surf
+board  related_to  surf
+1627 1700
+1628
+boy  is_a  man
+1628 1700
+1629
+1629 1700
+1630
+1630 1700
+1631
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+1631 1700
+1632
+hockey  related_to  player
+1632 1700
+1633
+man  antonym  people
+man  antonym  people
+man  related_to  people
+girl  related_to  people
+1633 1700
+1634
+table  is_a  furniture
+man  antonym  people
+man  antonym  people
+man  related_to  people
+man  related_to  piece
+1634 1700
+1635
+1635 1700
+1636
+wooded  related_to  tree
+1636 1700
+1637
+1637 1700
+1638
+1638 1700
+1639
+1639 1700
+1640
+1640 1700
+1641
+1641 1700
+1642
+girl  is_a  child
+1642 1700
+1643
+1643 1700
+1644
+1644 1700
+1645
+1645 1700
+1646
+1646 1700
+1647
+woman  is_a  man
+1647 1700
+1648
+1648 1700
+1649
+kid  related_to  child
+field  related_to  play
+1649 1700
+1650
+1650 1700
+1651
+listen  antonym  talk
+listen  antonym  talk
+listen  related_to  talk
+1651 1700
+1652
+toy  related_to  boy
+1652 1700
+1653
+man  is_a  person
+play  related_to  do
+1653 1700
+1654
+man  is_a  male
+1654 1700
+1655
+painter  is_a  artist
+1655 1700
+1656
+umbrella  related_to  rain
+1656 1700
+1657
+woman  is_a  man
+1657 1700
+1658
+1658 1700
+1659
+gentleman  is_a  man
+1659 1700
+1660
+1660 1700
+1661
+1661 1700
+1662
+1662 1700
+1663
+man  distinct from  girl
+man  distinct from  girl
+child  related_to  man
+1663 1700
+1664
+1664 1700
+1665
+1665 1700
+1666
+woman  related_to  single
+ride  related_to  bike
+bus  related_to  motor
+1666 1700
+1667
+1667 1700
+1668
+1668 1700
+1669
+1669 1700
+1670
+1670 1700
+1671
+1671 1700
+1672
+1672 1700
+1673
+1673 1700
+1674
+1674 1700
+1675
+stand  related_to  seek
+1675 1700
+1676
+1676 1700
+1677
+1677 1700
+1678
+1678 1700
+1679
+crowd  related_to  fill
+1679 1700
+1680
+face  related_to  together
+1680 1700
+1681
+1681 1700
+1682
+1682 1700
+1683
+park  related_to  fun
+1683 1700
+1684
+1684 1700
+1685
+1685 1700
+1686
+crowd  related_to  group
+1686 1700
+1687
+1687 1700
+1688
+1688 1700
+1689
+1689 1700
+1690
+1690 1700
+1691
+1691 1700
+1692
+1692 1700
+1693
+1693 1700
+1694
+photographer  related_to  photograph
+1694 1700
+1695
+guy  is_a  man
+1695 1700
+1696
+walk  related_to  move
+walk  related_to  around
+1696 1700
+1697
+1697 1700
+1698
+1698 1700
+1699
+front  related_to  area
+1699 1700
+1700
+1700 1700
+guardado 1700
+1701
+woman  is_a  man
+1701 1800
+1702
+age  distinct from  young
+age  distinct from  young
+1702 1800
+1703
+stove  related_to  hot
+1703 1800
+1704
+1704 1800
+1705
+black  related_to  race
+1705 1800
+1706
+1706 1800
+1707
+1707 1800
+1708
+1708 1800
+1709
+1709 1800
+1710
+airplane  is_a  aircraft
+1710 1800
+1711
+woman  is_a  man
+1711 1800
+1712
+river  related_to  fast
+1712 1800
+1713
+group  related_to  perform
+1713 1800
+1714
+1714 1800
+1715
+distance  related_to  go
+1715 1800
+1716
+1716 1800
+1717
+set  related_to  sit
+1717 1800
+1718
+water  is_a  liquid
+1718 1800
+1719
+fishing  related_to  fish
+net  related_to  fish
+1719 1800
+1720
+wood  related_to  make
+1720 1800
+1721
+cage  related_to  trap
+1721 1800
+1722
+1722 1800
+1723
+man  is_a  person
+crowd  related_to  outside
+1723 1800
+1724
+planting  related_to  plant
+seed  related_to  plant
+pot  related_to  plant
+pot  related_to  plant
+soil  related_to  plant
+1724 1800
+1725
+picture  related_to  pretty
+1725 1800
+1726
+perform  related_to  do
+1726 1800
+1727
+1727 1800
+1728
+1728 1800
+1729
+man  is_a  person
+1729 1800
+1730
+1730 1800
+1731
+sky  related_to  home
+cloud  related_to  home
+1731 1800
+1732
+1732 1800
+1733
+1733 1800
+1734
+1734 1800
+1735
+reach  related_to  give
+1735 1800
+1736
+1736 1800
+1737
+employee  is_a  person
+1737 1800
+1738
+man  related_to  people
+talk  related_to  people
+1738 1800
+1739
+1739 1800
+1740
+1740 1800
+1741
+stage  related_to  perform
+1741 1800
+1742
+1742 1800
+1743
+1743 1800
+1744
+rainbow  related_to  rain
+umbrella  related_to  rain
+1744 1800
+1745
+rainstorm  is_a  rain
+1745 1800
+1746
+1746 1800
+1747
+bag  related_to  grocery
+1747 1800
+1748
+coconut  related_to  black
+1748 1800
+1749
+girl  is_a  kid
+1749 1800
+1750
+kid  related_to  teenager
+1750 1800
+1751
+1751 1800
+1752
+1752 1800
+1753
+talk  related_to  chat
+1753 1800
+1754
+1754 1800
+1755
+photograph  related_to  people
+1755 1800
+1756
+1756 1800
+1757
+1757 1800
+1758
+newspaper  is_a  paper
+1758 1800
+1759
+1759 1800
+1760
+woman  is_a  person
+1760 1800
+1761
+guy  is_a  man
+talk  related_to  chat
+1761 1800
+1762
+hound  is_a  dog
+1762 1800
+1763
+man  related_to  group
+man  related_to  people
+drinking  related_to  drink
+beer  related_to  drink
+glass  related_to  drink
+1763 1800
+1764
+1764 1800
+1765
+1765 1800
+1766
+construction  related_to  work
+1766 1800
+1767
+1767 1800
+1768
+wear  related_to  conduct
+1768 1800
+1769
+man  is_a  person
+1769 1800
+1770
+1770 1800
+1771
+1771 1800
+1772
+sit  related_to  stand
+ground  related_to  stand
+1772 1800
+1773
+1773 1800
+1774
+1774 1800
+1775
+1775 1800
+1776
+crowd  antonym  group
+crowd  antonym  people
+crowd  antonym  group
+crowd  antonym  people
+crowd  related_to  small
+crowd  related_to  group
+crowd  related_to  people
+watch  related_to  small
+1776 1800
+1777
+1777 1800
+1778
+1778 1800
+1779
+1779 1800
+1780
+1780 1800
+1781
+1781 1800
+1782
+1782 1800
+1783
+1783 1800
+1784
+1784 1800
+1785
+1785 1800
+1786
+1786 1800
+1787
+1787 1800
+1788
+shirtless  related_to  shirt
+film  related_to  camera
+1788 1800
+1789
+chop  is_a  cut
+tree  is_a  wood
+house  is_a  home
+1789 1800
+1790
+1790 1800
+1791
+1791 1800
+1792
+1792 1800
+1793
+squat  related_to  shoulder
+1793 1800
+1794
+1794 1800
+1795
+walk  related_to  leg
+carry  related_to  have
+1795 1800
+1796
+1796 1800
+1797
+bicycle  is_a  bike
+1797 1800
+1798
+1798 1800
+1799
+1799 1800
+1800
+1800 1800
+guardado 1800
+1801
+1801 1900
+1802
+1802 1900
+1803
+1803 1900
+1804
+1804 1900
+1805
+man  is_a  person
+1805 1900
+1806
+1806 1900
+1807
+child  is_a  person
+1807 1900
+1808
+street  related_to  house
+1808 1900
+1809
+eat  related_to  dinner
+1809 1900
+1810
+1810 1900
+1811
+1811 1900
+1812
+guy  is_a  man
+1812 1900
+1813
+1813 1900
+1814
+man  is_a  male
+tuck  related_to  fold
+1814 1900
+1815
+1815 1900
+1816
+1816 1900
+1817
+play  related_to  sport
+field  related_to  sport
+1817 1900
+1818
+1818 1900
+1819
+man  related_to  people
+hand  related_to  people
+1819 1900
+1820
+backwards  antonym  forwards
+backwards  antonym  forwards
+backwards  related_to  forwards
+1820 1900
+1821
+1821 1900
+1822
+1822 1900
+1823
+1823 1900
+1824
+cafe  is_a  restaurant
+roll  related_to  leave
+1824 1900
+1825
+1825 1900
+1826
+1826 1900
+1827
+girl  antonym  boy
+girl  antonym  boy
+girl  related_to  boy
+back  related_to  boy
+1827 1900
+1828
+people  related_to  group
+field  related_to  outside
+1828 1900
+1829
+woman  is_a  man
+enter  antonym  leave
+enter  antonym  leave
+1829 1900
+1830
+1830 1900
+1831
+1831 1900
+1832
+camera  used_for  picture
+smile  antonym  frown
+smile  antonym  frown
+small  related_to  young
+smile  related_to  frown
+1832 1900
+1833
+1833 1900
+1834
+1834 1900
+1835
+1835 1900
+1836
+1836 1900
+1837
+1837 1900
+1838
+lady  is_a  woman
+1838 1900
+1839
+fire  related_to  cook
+1839 1900
+1840
+1840 1900
+1841
+shopper  related_to  person
+1841 1900
+1842
+1842 1900
+1843
+child  related_to  people
+wade  related_to  water
+ocean  related_to  large
+ocean  related_to  body
+ocean  related_to  water
+1843 1900
+1844
+man  related_to  group
+man  related_to  people
+1844 1900
+1845
+1845 1900
+1846
+drive  is_a  road
+center  related_to  group
+1846 1900
+1847
+1847 1900
+1848
+1848 1900
+1849
+go  related_to  fly
+1849 1900
+1850
+1850 1900
+1851
+1851 1900
+1852
+1852 1900
+1853
+1853 1900
+1854
+1854 1900
+1855
+1855 1900
+1856
+stage  related_to  concert
+song  related_to  concert
+1856 1900
+1857
+1857 1900
+1858
+chair  related_to  block
+playroom  related_to  play
+1858 1900
+1859
+1859 1900
+1860
+1860 1900
+1861
+1861 1900
+1862
+1862 1900
+1863
+man  is_a  male
+1863 1900
+1864
+1864 1900
+1865
+1865 1900
+1866
+young  related_to  /home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+/home/david/OPENAI/RIT.py:352: RuntimeWarning: invalid value encountered in scalar divide
+  max_info.append((ma.max().sum()/(ma.shape[1])))
+look
+1866 1900
+1867
+1867 1900
+1868
+1868 1900
+1869
+1869 1900
+1870
+1870 1900
+1871
+1871 1900
+1872
+corner  related_to  street
+1872 1900
+1873
+guy  is_a  man
+1873 1900
+1874
+yellow  related_to  asian
+1874 1900
+1875
+girl  is_a  child
+1875 1900
+1876
+1876 1900
+1877
+1877 1900
+1878
+yoga  is_a  exercise
+1878 1900
+1879
+1879 1900
+1880
+flight  related_to  fly
+1880 1900
+1881
+woman  is_a  man
+chess  is_a  musical
+old  antonym  young
+old  antonym  young
+old  related_to  young
+1881 1900
+1882
+1882 1900
+1883
+hill  related_to  ski
+snow  related_to  ski
+1883 1900
+1884
+1884 1900
+1885
+man  is_a  person
+1885 1900
+1886
+1886 1900
+1887
+1887 1900
+1888
+1888 1900
+1889
+suit  related_to  business
+1889 1900
+1890
+1890 1900
+1891
+front  related_to  show
+1891 1900
+1892
+man  is_a  person
+1892 1900
+1893
+1893 1900
+1894
+black  antonym  white
+black  antonym  white
+black  related_to  white
+1894 1900
+1895
+dress  antonym  naked
+dress  antonym  naked
+man  related_to  people
+1895 1900
+1896
+1896 1900
+1897
+dress  antonym  naked
+dress  antonym  naked
+1897 1900
+1898
+snow  related_to  outside
+1898 1900
+1899
+1899 1900
+1900
+1900 1900
+guardado 1900
+1901
+1901 2000
+1902
+man  antonym  people
+man  antonym  people
+man  related_to  people
+dance  related_to  people
+1902 2000
+1903
+1903 2000
+1904
+ball  related_to  play
+1904 2000
+1905
+woman  is_a  man
+1905 2000
+1906
+race  related_to  people
+race  related_to  car
+1906 2000
+1907
+1907 2000
+1908
+hand  related_to  have
+1908 2000
+1909
+1909 2000
+1910
+1910 2000
+1911
+1911 2000
+1912
+1912 2000
+1913
+man  distinct from  female
+man  distinct from  female
+skater  related_to  skate
+1913 2000
+1914
+snowboarding  related_to  snowboard
+1914 2000
+1915
+rider  is_a  person
+mountain  related_to  top
+1915 2000
+1916
+1916 2000
+1917
+crowd  related_to  outside
+1917 2000
+1918
+paint  used_for  painting
+little  related_to  young
+1918 2000
+1919
+1919 2000
+1920
+1920 2000
+1921
+1921 2000
+1922
+1922 2000
+1923
+1923 2000
+1924
+grass  related_to  outside
+1924 2000
+1925
+1925 2000
+1926
+1926 2000
+1927
+1927 2000
+1928
+climb  related_to  top
+1928 2000
+1929
+man  antonym  girl
+man  antonym  girl
+man  related_to  girl
+1929 2000
+1930
+1930 2000
+1931
+match  is_a  score
+soccer  related_to  goal
+soccer  related_to  goal
+ball  related_to  good
+1931 2000
+1932
+grass  related_to  other
+1932 2000
+1933
+1933 2000
+1934
+1934 2000
+1935
+1935 2000
+1936
+pass  related_to  race
+1936 2000
+1937
+1937 2000
+1938
+1938 2000
+1939
+stand  antonym  sit
+stand  antonym  sit
+1939 2000
+1940
+white  related_to  caucasian
+1940 2000
+1941
+1941 2000
+1942
+1942 2000
+1943
+1943 2000
+1944
+1944 2000
+1945
+1945 2000
+1946
+smile  related_to  happy
+1946 2000
+1947
+1947 2000
+1948
+1948 2000
+1949
+sit  antonym  stand
+sit  antonym  stand
+sit  related_to  stand
+1949 2000
+1950
+1950 2000
+1951
+1951 2000
+1952
+1952 2000
+1953
+1953 2000
+1954
+1954 2000
+1955
+1955 2000
+1956
+1956 2000
+1957
+1957 2000
+1958
+stage  antonym  audience
+stage  antonym  audience
+stage  related_to  audience
+1958 2000
+1959
+1959 2000
+1960
+1960 2000
+1961
+1961 2000
+1962
+1962 2000
+1963
+1963 2000
+1964
+mask  related_to  disguise
+1964 2000
+1965
+1965 2000
+1966
+cane  is_a  stick
+1966 2000
+1967
+1967 2000
+1968
+1968 2000
+1969
+1969 2000
+1970
+1970 2000
+1971
+1971 2000
+1972
+1972 2000
+1973
+1973 2000
+1974
+father  antonym  mother
+kick  antonym  hit
+father  antonym  mother
+kick  antonym  hit
+father  related_to  mother
+son  related_to  mother
+kick  related_to  hit
+1974 2000
+1975
+bear  is_a  animal
+1975 2000
+1976
+stand  is_a  stop
+1976 2000
+1977
+1977 2000
+1978
+1978 2000
+1979
+1979 2000
+1980
+stand  antonym  sit
+stand  antonym  sit
+1980 2000
+1981
+dog  related_to  animal
+field  related_to  animal
+1981 2000
+1982
+dancer  related_to  dance
+step  related_to  dance
+1982 2000
+1983
+1983 2000
+1984
+1984 2000
+1985
+1985 2000
+1986
+1986 2000
+1987
+boy  related_to  kid
+1987 2000
+1988
+1988 2000
+1989
+1989 2000
+1990
+1990 2000
+1991
+1991 2000
+1992
+1992 2000
+1993
+lady  is_a  woman
+1993 2000
+1994
+1994 2000
+1995
+neighborhood  is_a  area
+woman  related_to  beautiful
+1995 2000
+1996
+1996 2000
+1997
+white  related_to  piece
+dance  related_to  performance
+1997 2000
+1998
+serve  related_to  work
+1998 2000
+1999
+1999 2000
+2000
+2000 2000
+guardado 2000
+2001
+2001 2100
+2002
+street  is_a  road
+2002 2100
+2003
+boy  antonym  girl
+boy  antonym  girl
+boy  related_to  girl
+2003 2100
+2004
+2004 2100
+2005
+male  related_to  man
+2005 2100
+2006
+2006 2100
+2007
+2007 2100
+2008
+play  related_to  park
+2008 2100
+2009
+2009 2100
+2010
+2010 2100
+2011
+2011 2100
+2012
+girl  antonym  boy
+sit  antonym  stand
+girl  antonym  boy
+sit  antonym  stand
+girl  related_to  boy
+sit  related_to  stand
+desk  related_to  stand
+2012 2100
+2013
+2013 2100
+2014
+2014 2100
+2015
+onlooker  is_a  spectator
+center  related_to  group
+center  related_to  group
+2015 2100
+2016
+market  related_to  outside
+2016 2100
+2017
+2017 2100
+2018
+saxophonist  is_a  musician
+event  related_to  performance
+2018 2100
+2019
+2019 2100
+2020
+lady  is_a  woman
+2020 2100
+2021
+box  related_to  television
+2021 2100
+2022
+2022 2100
+2023
+2023 2100
+2024
+2024 2100
+2025
+2025 2100
+2026
+man  is_a  male
+2026 2100
+2027
+2027 2100
+2028
+2028 2100
+2029
+2029 2100
+2030
+2030 2100
+2031
+2031 2100
+2032
+sign  related_to  autograph
+2032 2100
+2033
+2033 2100
+2034
+girl  related_to  male
+2034 2100
+2035
+woman  is_a  person
+2035 2100
+2036
+2036 2100
+2037
+2037 2100
+2038
+2038 2100
+2039
+2039 2100
+2040
+2040 2100
+2041
+guy  antonym  girl
+guy  antonym  girl
+2041 2100
+2042
+2042 2100
+2043
+have  related_to  get
+look  related_to  do
+face  related_to  hair
+2043 2100
+2044
+2044 2100
+2045
+2045 2100
+2046
+bright  related_to  shine
+2046 2100
+2047
+old  antonym  young
+old  antonym  young
+old  related_to  young
+2047 2100
+2048
+dinner  is_a  meal
+have  related_to  romantic
+prepare  related_to  fix
+2048 2100
+2049
+2049 2100
+2050
+person  antonym  people
+person  antonym  people
+person  related_to  people
+2050 2100
+2051
+2051 2100
+2052
+2052 2100
+2053
+2053 2100
+2054
+girl  related_to  person
+face  related_to  person
+2054 2100
+2055
+2055 2100
+2056
+street  related_to  outside
+2056 2100
+2057
+wood  related_to  eat
+2057 2100
+2058
+2058 2100
+2059
+2059 2100
+2060
+2060 2100
+2061
+2061 2100
+2062
+2062 2100
+2063
+2063 2100
+2064
+2064 2100
+2065
+2065 2100
+2066
+2066 2100
+2067
+2067 2100
+2068
+2068 2100
+2069
+2069 2100
+2070
+dress  related_to  night
+2070 2100
+2071
+2071 2100
+2072
+people  is_a  group
+2072 2100
+2073
+boat  related_to  water
+2073 2100
+2074
+2074 2100
+2075
+2075 2100
+2076
+young  antonym  old
+young  antonym  old
+2076 2100
+2077
+boy  is_a  man
+2077 2100
+2078
+walk  antonym  sit
+walk  antonym  sit
+walk  related_to  move
+street  related_to  block
+2078 2100
+2079
+woman  related_to  beautiful
+2079 2100
+2080
+2080 2100
+2081
+2081 2100
+2082
+2082 2100
+2083
+ground  related_to  grass
+2083 2100
+2084
+2084 2100
+2085
+kid  is_a  person
+park  related_to  lot
+2085 2100
+2086
+smile  related_to  happy
+2086 2100
+2087
+2087 2100
+2088
+2088 2100
+2089
+sit  antonym  stand
+sit  antonym  stand
+sit  related_to  stand
+2089 2100
+2090
+2090 2100
+2091
+man  distinct from  girl
+man  distinct from  girl
+do  related_to  so
+do  related_to  take
+2091 2100
+2092
+dog  antonym  cat
+dog  antonym  cat
+dog  related_to  cat
+2092 2100
+2093
+scene  is_a  picture
+2093 2100
+2094
+trim  is_a  cut
+asparagus  is_a  vegetable
+2094 2100
+2095
+2095 2100
+2096
+girl  is_a  kid
+2096 2100
+2097
+2097 2100
+2098
+crowd  related_to  play
+2098 2100
+2099
+hillside  related_to  hill
+2099 2100
+Tiempo que se llevo: 13107.03  segundos

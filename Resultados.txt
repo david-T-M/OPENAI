@@ -1,0 +1,43 @@
+RTE3
+XGBOOST
+acccuracy:  0.59
+precision:  0.58
+recall 0.72
+f1_score:  0.64
+
+Regresión Logística
+acccuracy:  0.59
+precision:  0.59
+recall 0.65
+f1_score:  0.62
+matthews_score:  0.18
+
+SICK
+XGBOOST
+acccuracy:  0.74
+precision:  0.53
+recall 0.67
+f1_score:  0.59
+
+Regresión Logística
+acccuracy:  0.75
+precision:  0.55
+recall 0.66
+f1_score:  0.6
+matthews_score:  0.42
+
+
+GHS (entrenado con RTE3)
+
+XGBOOST
+acccuracy:  0.8
+precision:  0.81
+recall 0.79
+f1_score:  0.8
+
+Regresión Logística
+acccuracy:  0.9
+precision:  0.84
+recall 0.98
+f1_score:  0.91
+matthews_score:  0.81
